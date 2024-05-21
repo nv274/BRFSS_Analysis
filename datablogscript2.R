@@ -23,9 +23,9 @@ brfsscodebook <- brfsscodebook[!grepl("-",  brfsscodebook$Value),]
 write.csv(responses, "responses.csv", row.names=FALSE)
 brfssmap <- brfsscodebook[,c('Variable_Name','Value','Value_Label')]
 brfssmap[brfssmap == ''] <- NA
-#brfssmap <- brfssmap %>%
- # group_by(Value_Label, Value) %>%
-  #pivot_wider(names_from='Variable_Name', values_from='Value_Label')
+brfssmap <- brfssmap %>%
+  group_by(Value_Label, Value) %>%
+   pivot_wider(names_from='Variable_Name', values_from='Value_Label')
 write.csv(brfssmap, "brfssmap.csv", row.names=FALSE)
 for (var in intersect(names(njresponses),unique(brfssmap$Variable_Name))) {
   map <- brfssmap[brfssmap$Variable_Name == var, ]
@@ -36,13 +36,13 @@ for (var in intersect(names(njresponses),unique(brfssmap$Variable_Name))) {
   njresponses[[var]][valid_indices] <- map$Value_Label[matching_indices[valid_indices]]
 }
 write.csv(njresponses, "njresponses.csv", row.names=FALSE)
-#njresponsesog <- responses[responses$X_STATE == 34,]
-#na_counts <- colSums(is.na(njresponses))/8209
-#njresponses <- njresponses[, na_counts <= 0.5]
-#missing_counts <- sapply(njresponses, function(col) sum(grepl('missing', col, ignore.case = TRUE)))/8209
-#njresponses <- njresponses[, missing_counts <= 0.5]
-#none_counts <- sapply(njresponses, function(col) sum(grepl('none', col, ignore.case = TRUE)))/8209
-#njresponses <- njresponses[, none_counts <= 0.5]
+njresponsesog <- responses[responses$X_STATE == 34,]
+na_counts <- colSums(is.na(njresponses))/8209
+njresponses <- njresponses[, na_counts <= 0.5]
+missing_counts <- sapply(njresponses, function(col) sum(grepl('missing', col, ignore.case = TRUE)))/8209
+njresponses <- njresponses[, missing_counts <= 0.5]
+none_counts <- sapply(njresponses, function(col) sum(grepl('none', col, ignore.case = TRUE)))/8209
+njresponses <- njresponses[, none_counts <= 0.5]
 name_list = c("X_STATE", "X_URBSTAT", "X_AGEG5YR", "DISPCODE", "NUMADULT", "SEXVAR", "GENHLTH",
               "PHYSHLTH", "MENTHLTH", "POORHLTH", "PRIMINSR", "EXERANY2", "SLEPTIM1", "CVDINFR4",
               "CVDCRHD4", "CVDSTRK3", "ASTHMA3", "CNCRTYP2", "CHCCOPD3",
