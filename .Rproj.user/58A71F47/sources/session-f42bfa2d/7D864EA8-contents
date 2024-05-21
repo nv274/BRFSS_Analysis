@@ -1,0 +1,30 @@
+library.path <- .libPaths()
+#install.packages("devtools", dependencies=TRUE)
+install.packages("pak")
+library(pak, lib.loc=library.path)
+pak::pak("r-lib/devtools")
+pak::pak("janish-parikh/ZTest@main")
+library(HypothesisTesting)
+Party <- read.csv("https://raw.githubusercontent.com/paramshah4/data101_tutorial/main/files/dataset/party2023.csv")
+Party
+#tapply(Party$Rating, Party$DJ, mean)
+#tapply(Party$Attendance, Party$Ticket, mean)
+tapply(Party$Attendance, Party$Ticket, mean)
+#The fewest mean people attend a party when the ticket price is 0
+tapply(Party$Attendance, Party$Music, mean)
+#tapply(Party$Ticket, Party$Music, mean)
+`#Salsa has the most mean attendance of any music category
+tapply(Party$Attendance, Party$D, mean)
+#Saturday is the day in which there are the most mean attendants
+head(Party)
+permutation_test(Party, 'Music', 'Attendance', 10000, 'Salsa', 'Techno')
+permutation_test(Party, 'DJ', 'Attendance', 10000, 'Alex', 'Mski')
+permutation_test(Party, 'Ticket', 'Attendance', 10000, 0, 5)
+names(Party)
+#A
+permutation_test(Party, 'DJ', 'Rating', 10000, 'Alex', 'Blue')
+#B
+permutation_test(Party, 'Ticket', 'Rating', 10000, 4, 2)
+#C
+permutation_test(Party, 'Music', 'Ticket', 10000, 'Jazz', 'Salsa')
+

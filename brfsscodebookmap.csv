@@ -1,0 +1,1983 @@
+Value,Value_Label,Frequency,Percentage,Weighted_Percentage,Variable_Name
+1,Alabama,4506,1.01,1.5,X_STATE
+2,Alaska,5865,1.32,0.21,X_STATE
+4,Arizona,10185,2.29,2.18,X_STATE
+5,Arkansas,5309,1.19,0.89,X_STATE
+6,California,10952,2.46,11.63,X_STATE
+8,Colorado,9365,2.1,1.76,X_STATE
+9,Connecticut,9784,2.2,1.09,X_STATE
+10,Delaware,3987,0.9,0.3,X_STATE
+11,District of Columbia,3237,0.73,0.21,X_STATE
+12,Florida,13393,3.01,6.74,X_STATE
+13,Georgia,9236,2.07,3.19,X_STATE
+15,Hawaii,7747,1.74,0.43,X_STATE
+16,Idaho,6280,1.41,0.56,X_STATE
+17,Illinois,4056,0.91,3.74,X_STATE
+18,Indiana,10466,2.35,1.99,X_STATE
+19,Iowa,8949,2.01,0.94,X_STATE
+20,Kansas,11247,2.53,0.85,X_STATE
+21,Kentucky,4023,0.9,1.33,X_STATE
+22,Louisiana,5629,1.26,1.35,X_STATE
+23,Maine,10646,2.39,0.43,X_STATE
+24,Maryland,16418,3.69,1.83,X_STATE
+25,Massachusetts,11029,2.48,2.14,X_STATE
+26,Michigan,10058,2.26,3,X_STATE
+27,Minnesota,16821,3.78,1.68,X_STATE
+28,Mississippi,4239,0.95,0.86,X_STATE
+29,Missouri,7438,1.67,1.82,X_STATE
+30,Montana,7048,1.58,0.33,X_STATE
+31,Nebraska,7473,1.68,0.57,X_STATE
+32,Nevada,3188,0.72,0.94,X_STATE
+33,New Hampshire,6757,1.52,0.43,X_STATE
+34,New Jersey,8209,1.84,2.77,X_STATE
+35,New Mexico,4758,1.07,0.62,X_STATE
+36,New York,17800,4,5.97,X_STATE
+37,North Carolina,4505,1.01,3.17,X_STATE
+38,North Dakota,4153,0.93,0.23,X_STATE
+39,Ohio,16487,3.7,3.49,X_STATE
+40,Oklahoma,5775,1.3,1.16,X_STATE
+41,Oregon,5756,1.29,1.3,X_STATE
+42,Pennsylvania,4582,1.03,3.91,X_STATE
+44,Rhode Island,5893,1.32,0.34,X_STATE
+45,South Carolina,10037,2.25,1.57,X_STATE
+46,South Dakota,7424,1.67,0.26,X_STATE
+47,Tennessee,5266,1.18,2.08,X_STATE
+48,Texas,14245,3.2,8.52,X_STATE
+49,Utah,9826,2.21,0.93,X_STATE
+50,Vermont,8811,1.98,0.2,X_STATE
+51,Virginia,10417,2.34,2.58,X_STATE
+53,Washington,26152,5.88,2.33,X_STATE
+54,West Virginia,4981,1.12,0.54,X_STATE
+55,Wisconsin,11276,2.53,1.76,X_STATE
+56,Wyoming,4142,0.93,0.17,X_STATE
+66,Guam,2266,0.51,0.04,X_STATE
+72,Puerto Rico,5509,1.24,1.11,X_STATE
+78,Virgin Islands,1531,0.34,0.03,X_STATE
+1,January,36070,8.1,8.27,FMONTH
+2,February,31885,7.16,7.38,FMONTH
+3,March,35222,7.91,7.62,FMONTH
+4,April,32865,7.38,6.6,FMONTH
+5,May,32484,7.3,6.97,FMONTH
+6,June,36176,8.13,8.35,FMONTH
+7,July,36808,8.27,8.22,FMONTH
+8,August,40098,9.01,10.25,FMONTH
+9,September,39566,8.89,8.57,FMONTH
+10,October,39133,8.79,8.32,FMONTH
+11,November,47701,10.72,10.65,FMONTH
+12,December,37124,8.34,8.78,FMONTH
+1,January,36624,8.23,8.92,IMONTH
+2,February,35284,7.93,7.15,IMONTH
+3,March,35706,8.02,7.57,IMONTH
+4,April,32837,7.38,6.38,IMONTH
+5,May,38238,8.59,8.4,IMONTH
+6,June,36649,8.23,8.09,IMONTH
+7,July,34097,7.66,8.28,IMONTH
+8,August,41040,9.22,10.19,IMONTH
+9,September,35969,8.08,8.85,IMONTH
+10,October,36873,8.28,7.94,IMONTH
+11,November,37623,8.45,8.1,IMONTH
+12,December,44192,9.93,10.13,IMONTH
+0,0,6,0,0,IMONTH
+1,Interview Day,13132,2.95,2.93,IDAY
+2,2,14282,3.21,3.18,IDAY
+3,3,14122,3.17,3.06,IDAY
+4,4,13750,3.09,3.13,IDAY
+5,5,14962,3.36,3.36,IDAY
+6,6,14500,3.26,3.36,IDAY
+7,7,15271,3.43,3.47,IDAY
+8,8,15121,3.4,3.47,IDAY
+9,9,16666,3.74,3.8,IDAY
+10,10,15720,3.53,3.52,IDAY
+11,11,15205,3.42,3.37,IDAY
+12,12,15732,3.53,3.45,IDAY
+13,13,15235,3.42,3.33,IDAY
+14,14,15592,3.5,3.58,IDAY
+15,15,15631,3.51,3.63,IDAY
+16,16,15847,3.56,3.54,IDAY
+17,17,14144,3.18,3.12,IDAY
+18,18,15123,3.4,3.48,IDAY
+19,19,15278,3.43,3.34,IDAY
+20,20,15302,3.44,3.23,IDAY
+21,21,16063,3.61,3.52,IDAY
+22,22,15694,3.53,3.5,IDAY
+23,23,14699,3.3,3.22,IDAY
+24,24,12327,2.77,2.92,IDAY
+25,25,12717,2.86,2.81,IDAY
+26,26,14117,3.17,3.22,IDAY
+27,27,13748,3.09,3.16,IDAY
+28,28,14575,3.27,3.35,IDAY
+29,29,12938,2.91,2.92,IDAY
+30,30,11109,2.5,2.52,IDAY
+31,31,6524,1.47,1.51,IDAY
+2022,2022,419473,94.24,93.18,IYEAR
+2023,2023,25659,5.76,6.82,IYEAR
+1100,Completed Interview,353271,79.36,72.2,DISPCODE
+1200,Partial Complete Interview,91861,20.64,27.8,DISPCODE
+1,Yes,96049,100,100,CTELENM1
+2,No,2,0,0,CTELENM1
+1,Yes,96031,99.98,99.95,PVTRESD1
+2,No,19,0.02,0.05,PVTRESD1
+,Missing,,,,PVTRESD1
+1,Yes,100,100,COLGHOUS,PVTRESD1
+,Missing,,,,PVTRESD1
+1,Yes,100,100,STATERE1,PVTRESD1
+,Not asked or Missing,,,,PVTRESD1
+1,Yes,2,0,0,CELPHON1
+2,No,96050,100,100,CELPHON1
+,Missing of Cell Phone Interview,,,,CELPHON1
+1,Yes,95885,99.83,99.81,LADULT1
+2,No,165,0.17,0.19,LADULT1
+,Not asked or Missing,,,,LADULT1
+1,Male,5,23.81,32.6,COLGSEX1
+2,Female,16,76.19,67.4,COLGSEX1
+,Not asked or Missing,,,,COLGSEX1
+1,1,43689,45.49,31.05,NUMADULT
+2,2,43123,44.9,48.4,NUMADULT
+3,3,6634,6.91,12.92,NUMADULT
+4,4,1919,2,5.28,NUMADULT
+5,5,456,0.47,1.75,NUMADULT
+6 - 99,6 or more,211,0.22,0.61,NUMADULT
+,Missing,,,,NUMADULT
+0,,1,0,0,LANDSEX1
+1,Male,13424,30.72,31.52,LANDSEX1
+2,Female,30247,69.22,68.37,LANDSEX1
+3,Nonbinary,7,0.02,0.03,LANDSEX1
+7,Don’t know/Not Sure,7,0.02,0.01,LANDSEX1
+9,Refused,10,0.02,0.06,LANDSEX1
+,Not asked or Missing,,,,LANDSEX1
+0,0,2448,4.85,5.62,NUMMEN
+1,1,41722,82.73,74.16,NUMMEN
+2,2,5335,10.58,16.19,NUMMEN
+3,3,775,1.54,3.26,NUMMEN
+4,4,114,0.23,0.6,NUMMEN
+5,5,22,0.04,0.07,NUMMEN
+6 - 99,6 or more,14,0.03,0.08,NUMMEN
+0,0,1080,2.14,2.38,NUMWOMEN
+1,1,42129,83.53,74.82,NUMWOMEN
+2,2,6203,12.3,18.38,NUMWOMEN
+3,3,841,1.67,3.61,NUMWOMEN
+4,4,127,0.25,0.55,NUMWOMEN
+5,5,30,0.06,0.21,NUMWOMEN
+6 - 99,6 or more,23,0.05,0.05,NUMWOMEN
+,Missing,,,,NUMWOMEN
+1,Male,22268,42.62,41.71,RESPSLCT
+2,Female,29982,57.38,58.29,RESPSLCT
+3,,1,0,0,RESPSLCT
+7,Don’t know/Not Sure,2,0,0,RESPSLCT
+,Not asked or Missing,,,,RESPSLCT
+1,Yes,349081,100,100,SAFETIME
+,Not asked or Missing,,,,SAFETIME
+1,Yes,349079,100,100,CTELNUM1
+2,No,2,0,0,CTELNUM1
+,Not asked or Missing,,,,CTELNUM1
+1,Yes,349081,100,100,CELLFON5
+,Not asked or Missing,,,,CELLFON5
+1,Yes,349080,100,100,CADULT1
+,Not asked or Missing,,,,CADULT1
+1,Male,173639,49.74,50.16,CELLSEX1
+2,Female,174948,50.12,49.68,CELLSEX1
+3,Nonbinary,328,0.09,0.1,CELLSEX1
+7,Don’t know/Not Sure,51,0.01,0.02,CELLSEX1
+9,Refused,113,0.03,0.03,CELLSEX1
+,Not asked or Missing,,,,CELLSEX1
+1,Yes,347749,99.62,99.37,PVTRESD3
+2,No,1325,0.38,0.63,PVTRESD3
+,Not asked or Missing,,,,PVTRESD3
+1,Yes,1325,100,100,CCLGHOUS
+,Missing,,,,CCLGHOUS
+1,Yes,329216,94.31,89.18,CSTATE1
+2,No,19856,5.69,10.82,CSTATE1
+,Not asked or Missing,,,,CSTATE1
+1,Yes,75600,21.66,30.16,LANDLINE
+2,No,272138,77.96,69.55,LANDLINE
+7,Don’t know/Not sure,675,0.19,0.18,LANDLINE
+9,Refused,658,0.19,0.11,LANDLINE
+,Not asked or Missing,,,,LANDLINE
+0,,4,0,0,HHADULT
+1 - 76,Number of adults,345640,99.02,98.9,HHADULT
+88,,3,0,0,HHADULT
+77,Don’t know/Not sure,880,0.25,0.33,HHADULT
+99,Refused,2544,0.73,0.78,HHADULT
+,Not asked or Missing,,,,HHADULT
+1,Male,209239,47.01,48.69,SEXVAR
+2,Female,235893,52.99,51.31,SEXVAR
+1,Excellent,71878,16.15,17.4,GENHLTH
+2,Very good,148444,33.35,31.84,GENHLTH
+3,Good,143598,32.26,32.48,GENHLTH
+4,Fair,60273,13.54,13.69,GENHLTH
+5,Poor,19741,4.43,4.29,GENHLTH
+7,Don’t know/Not Sure,810,0.18,0.19,GENHLTH
+9,Refused,385,0.09,0.1,GENHLTH
+,Not asked or Missing,3,.,,GENHLTH
+1 - 30,Number of days,166386,37.38,36.75,PHYSHLTH
+88,None,267819,60.17,60.54,PHYSHLTH
+77,Don’t know/Not sure,8875,1.99,2.21,PHYSHLTH
+99,Refused,2047,0.46,0.5,PHYSHLTH
+,Not asked or Missing,5,.,,PHYSHLTH
+1 - 30,Number of days,170836,38.38,41.49,MENTHLTH
+88,None,265229,59.58,56.1,MENTHLTH
+77,Don’t know/Not sure,6589,1.48,1.76,MENTHLTH
+99,Refused,2475,0.56,0.65,MENTHLTH
+,Not asked or Missing,3,.,,MENTHLTH
+1 - 30,Number of days,119802,46.84,47.92,POORHLTH
+88,None,129472,50.63,49,POORHLTH
+77,Don’t know/Not sure,5065,1.98,2.44,POORHLTH
+99,Refused,1407,0.55,0.63,POORHLTH
+,Not asked or Missing,,,,POORHLTH
+1,A plan purchased through an employer or union (including plans purchased through another person´s employer),161388,36.26,39.07,PRIMINSR
+2,A private nongovernmental plan that you or another family member buys on your own,36931,8.3,9.28,PRIMINSR
+3,Medicare,135848,30.52,20.78,PRIMINSR
+4,Medigap,536,0.12,0.15,PRIMINSR
+5,Medicaid,29072,6.53,8.51,PRIMINSR
+6,Children´s Health Insurance Program (CHIP),188,0.04,0.06,PRIMINSR
+7,Military related health care: TRICARE (CHAMPUS) / VA health care / CHAMP- VA,15373,3.45,3.28,PRIMINSR
+8,Indian Health Service,1385,0.31,0.17,PRIMINSR
+9,State sponsored health plan,12878,2.89,2.76,PRIMINSR
+10,Other government program,10630,2.39,2.7,PRIMINSR
+88,No coverage of any type,23018,5.17,8.07,PRIMINSR
+77,Don’t know/Not Sure,9890,2.22,3.22,PRIMINSR
+99,Refused,7991,1.8,1.95,PRIMINSR
+,Not asked or Missing,4,.,,PRIMINSR
+1,Yes only one,246967,55.48,52.27,PERSDOC3
+2,More than one,136685,30.71,28.78,PERSDOC3
+3,No,57105,12.83,17.65,PERSDOC3
+7,Don’t know/Not Sure,3270,0.73,1.01,PERSDOC3
+9,Refused,1103,0.25,0.29,PERSDOC3
+,Not asked or Missing,2,.,,PERSDOC3
+1,Yes,37227,8.36,11.06,MEDCOST1
+2,No,406296,91.28,88.47,MEDCOST1
+7,Don’t know/Not sure,1157,0.26,0.34,MEDCOST1
+9,Refused,448,0.1,0.13,MEDCOST1
+,Not asked or Missing,4,.,,MEDCOST1
+1,Within past year (anytime less than 12 months ago),350944,78.84,74.97,CHECKUP1
+2,Within past 2 years (1 year but less than 2 years ago),41919,9.42,10.74,CHECKUP1
+3,Within past 5 years (2 years but less than 5 years ago),24882,5.59,6.75,CHECKUP1
+4,5 or more years ago,19079,4.29,5.13,CHECKUP1
+7,Don’t know/Not sure,5063,1.14,1.39,CHECKUP1
+8,Never,2509,0.56,0.83,CHECKUP1
+9,Refused,733,0.16,0.2,CHECKUP1
+,Not asked or Missing,3,.,,CHECKUP1
+1,Yes,337559,75.83,75.85,EXERANY2
+2,No,106480,23.92,23.85,EXERANY2
+7,Don’t know/Not Sure,724,0.16,0.18,EXERANY2
+9,Refused,367,0.08,0.11,EXERANY2
+,Not asked or Missing,2,.,,EXERANY2
+1 - 24,Number of hours [1-24],439679,98.78,98.57,SLEPTIM1
+77,Don’t know/Not Sure,4792,1.08,1.23,SLEPTIM1
+99,Refused,658,0.15,0.21,SLEPTIM1
+,Missing,3,.,,SLEPTIM1
+1,Within the past year (anytime < 12 months ago),292408,65.89,62.93,LASTDEN4
+2,Within the past 2 years (1 year but < 2 years ago),50326,11.34,12.69,LASTDEN4
+3,Within the past 5 years (2 years but < 5 years ago),46987,10.59,11.31,LASTDEN4
+4,5 or more years ago,44828,10.1,10.21,LASTDEN4
+5,,4,0,0,LASTDEN4
+7,Don’t know/Not sure,4866,1.1,1.3,LASTDEN4
+8,Never,3562,0.8,1.36,LASTDEN4
+9,Refused,788,0.18,0.2,LASTDEN4
+,Missing,1363,.,,LASTDEN4
+1,1 to 5,129294,29.14,27.6,RMVTETH4
+2,6 or more but not all,45570,10.27,8.72,RMVTETH4
+3,All,25453,5.74,4.57,RMVTETH4
+7,Don’t know/Not sure,8563,1.93,1.72,RMVTETH4
+8,None,233455,52.61,57.06,RMVTETH4
+9,Refused,1434,0.32,0.33,RMVTETH4
+,Not asked or Missing,1363,.,,RMVTETH4
+1,Yes,25108,5.64,4.38,CVDINFR4
+2,No,416959,93.67,94.83,CVDINFR4
+7,Don’t know/Not sure,2731,0.61,0.69,CVDINFR4
+9,Refused,330,0.07,0.09,CVDINFR4
+,Not asked or Missing,4,.,,CVDINFR4
+1,Yes,26551,5.96,4.4,CVDCRHD4
+2,No,414176,93.05,94.67,CVDCRHD4
+7,Don’t know/Not sure,4044,0.91,0.84,CVDCRHD4
+9,Refused,359,0.08,0.1,CVDCRHD4
+,Not asked or Missing,2,.,,CVDCRHD4
+1,Yes,19239,4.32,3.56,CVDSTRK3
+2,No,424336,95.33,96.01,CVDSTRK3
+7,Don’t know/Not sure,1274,0.29,0.35,CVDSTRK3
+9,Refused,281,0.06,0.08,CVDSTRK3
+,Not asked or Missing,2,.,,CVDSTRK3
+1,Yes,66694,14.98,15.17,ASTHMA3
+2,No,376665,84.62,84.34,ASTHMA3
+7,Don’t know/Not Sure,1494,0.34,0.42,ASTHMA3
+9,Refused,277,0.06,0.08,ASTHMA3
+,Not asked or Missing,2,.,,ASTHMA3
+1,Yes,45659,68.46,64.75,ASTHNOW
+2,No,18948,28.41,31.64,ASTHNOW
+7,Don’t know/Not Sure,2054,3.08,3.57,ASTHNOW
+9,Refused,33,0.05,0.04,ASTHNOW
+,Not asked or Missing,,,,ASTHNOW
+1,Yes,35485,7.97,5.24,CHCSCNC1
+2,No,406504,91.32,94.12,CHCSCNC1
+7,Don’t know / Not sure,2822,0.63,0.56,CHCSCNC1
+9,Refused,319,0.07,0.08,CHCSCNC1
+,Not asked or Missing,2,.,,CHCSCNC1
+1,Yes,50269,11.29,8.08,CHCOCNC1
+2,No,392442,88.16,91.36,CHCOCNC1
+7,Don’t know / Not sure,2016,0.45,0.45,CHCOCNC1
+9,Refused,402,0.09,0.1,CHCOCNC1
+,Not asked or Missing,3,.,,CHCOCNC1
+1,Yes,35656,8.01,6.73,CHCCOPD3
+2,No,407257,91.49,92.7,CHCCOPD3
+7,Don’t know / Not sure,1885,0.42,0.48,CHCCOPD3
+9,Refused,332,0.07,0.09,CHCCOPD3
+,Not asked or Missing,2,.,,CHCCOPD3
+1,Yes,91410,20.54,20.47,ADDEPEV3
+2,No,350910,78.83,78.74,ADDEPEV3
+7,Don’t know/Not sure,2140,0.48,0.62,ADDEPEV3
+9,Refused,665,0.15,0.17,ADDEPEV3
+,Not asked or Missing,7,.,,ADDEPEV3
+1,Yes,20315,4.56,3.68,CHCKDNY2
+2,No,422891,95,95.87,CHCKDNY2
+7,Don’t know / Not sure,1581,0.36,0.35,CHCKDNY2
+9,Refused,343,0.08,0.1,CHCKDNY2
+,Not asked or Missing,2,.,,CHCKDNY2
+1,Yes,151148,33.96,26.45,HAVARTH4
+2,No,291351,65.45,72.84,HAVARTH4
+7,Don’t know/Not Sure,2264,0.51,0.6,HAVARTH4
+9,Refused,366,0.08,0.11,HAVARTH4
+,Not asked or Missing,3,.,,HAVARTH4
+1,Yes,61158,13.74,12.04,DIABETE4
+2,Yes but female told only during pregnancy,3836,0.86,1.01,DIABETE4
+3,No,368722,82.83,84.34,DIABETE4
+4,No pre-diabetes or borderline diabetes,10329,2.32,2.27,DIABETE4
+7,Don’t know/Not Sure,763,0.17,0.23,DIABETE4
+9,Refused,321,0.07,0.11,DIABETE4
+,Not asked or Missing,3,.,,DIABETE4
+1,Married,227424,51.09,49.33,MARITAL
+2,Divorced,57516,12.92,10.2,MARITAL
+3,Widowed,48019,10.79,7.03,MARITAL
+4,Separated,8702,1.95,2.36,MARITAL
+5,Never married,80001,17.97,24.71,MARITAL
+6,A member of an unmarried couple,18668,4.19,5.2,MARITAL
+9,Refused,4794,1.08,1.18,MARITAL
+,Not asked or Missing,8,.,,MARITAL
+1,Never attended school or only kindergarten,676,0.15,0.38,EDUCA
+2,Grades 1 through 8 (Elementary),8381,1.88,3.88,EDUCA
+3,Grades 9 through 11 (Some high school),16954,3.81,7.37,EDUCA
+4,Grade 12 or GED (High school graduate),108990,24.49,27.39,EDUCA
+5,College 1 year to 3 years (Some college or technical school),120252,27.02,30.04,EDUCA
+6,College 4 years or more (College graduate),187496,42.12,30.35,EDUCA
+9,Refused,2378,0.53,0.59,EDUCA
+,Not asked or Missing,5,.,,EDUCA
+1,Own,310708,69.8,66.63,RENTHOM1
+2,Rent,108332,24.34,25.81,RENTHOM1
+3,Other arrangement,21463,4.82,6.11,RENTHOM1
+7,Don’t know/Not Sure,1099,0.25,0.49,RENTHOM1
+9,Refused,3521,0.79,0.96,RENTHOM1
+,Not asked or Missing,,,,RENTHOM1
+1,Yes,6943,7.23,5.77,NUMHHOL4
+2,No,88512,92.15,93.09,NUMHHOL4
+7,Don’t know/Not sure,147,0.15,0.22,NUMHHOL4
+9,Refused,447,0.47,0.92,NUMHHOL4
+,Not asked or Missing,,,,NUMHHOL4
+1,Yes,53211,12.07,9.97,VETERAN3
+2,No,386272,87.6,89.61,VETERAN3
+7,Don’t know/Not Sure,208,0.05,0.08,VETERAN3
+9,Refused,1268,0.29,0.34,VETERAN3
+,Not asked or Missing,4173,.,,VETERAN3
+1,Employed for wages,186004,42.38,47.34,EMPLOY1
+2,Self-employed,38768,8.83,9.46,EMPLOY1
+3,Out of work for 1 year or more,8668,1.97,2.54,EMPLOY1
+4,Out of work for less than 1 year,8044,1.83,2.56,EMPLOY1
+5,A homemaker,17477,3.98,4.94,EMPLOY1
+6,A student,11111,2.53,4.8,EMPLOY1
+7,Retired,137083,31.23,20.46,EMPLOY1
+8,Unable to work,26737,6.09,6.41,EMPLOY1
+9,Refused,5044,1.15,1.48,EMPLOY1
+,Not asked or Missing,6196,.,,EMPLOY1
+0,,1,0,0,CHILDREN
+1 - 87,Number of children,108760,24.96,32.36,CHILDREN
+88,None,321907,73.86,65.94,CHILDREN
+99,Refused,5152,1.18,1.7,CHILDREN
+,Not asked or Missing,9312,.,,CHILDREN
+1,Less than $10000,10341,2.39,2.95,INCOME3
+2,Less than $15000 ($10000 to < $15000),11031,2.55,2.43,INCOME3
+3,Less than $20000 ($15000 to < $20000),14300,3.31,3.44,INCOME3
+4,Less than $25000 ($20000 to < $25000),20343,4.71,4.71,INCOME3
+5,Less than $35000 ($25000 to < $35000),42294,9.79,9.92,INCOME3
+6,Less than $50000 ($35000 to < $50000),46831,10.84,10.2,INCOME3
+7,Less than $75000 ($50000 to < $75000),59148,13.69,12.42,INCOME3
+8,Less than $100000? ($75000 to < $100000),48436,11.21,10.42,INCOME3
+9,Less than $150000? ($100000 to < $150000)?,50330,11.65,11.19,INCOME3
+10,Less than $200000? ($150000 to < $200000),22553,5.22,5.39,INCOME3
+11,$200000 or more,23478,5.43,6.13,INCOME3
+77,Don’t know/Not sure,36114,8.36,10.44,INCOME3
+99,Refused,47001,10.87,10.37,INCOME3
+,Not asked or Missing,12932,.,,INCOME3
+1,Yes,2311,2.92,3.51,PREGNANT
+2,No,76169,96.39,95.59,PREGNANT
+7,Don’t know/Not Sure,203,0.26,0.35,PREGNANT
+9,Refused,335,0.42,0.55,PREGNANT
+,Not asked or Missing,,,,PREGNANT
+50 - 0776,Weight (pounds),400862,93.39,92.88,WEIGHT2
+7777,Don’t know/Not sure,8003,1.86,2.46,WEIGHT2
+9023 - 9352,Weight (kilograms),,,,WEIGHT2
+Notes: The initial ´9´ indicates this was a metric value2209,0.51,0.81,,,WEIGHT2
+9999,Refused,18157,4.23,3.86,WEIGHT2
+,Not asked or Missing,15901,.,,WEIGHT2
+200 - 711,Height (ft/inches),412664,96.4,94.75,HEIGHT3
+7777,Don’t know/Not sure,4200,0.98,1.7,HEIGHT3
+9061 - 9998,Height (meters/centimeters),3830,0.89,1.67,HEIGHT3
+9999,Refused,7383,1.72,1.88,HEIGHT3
+,Not asked or Missing,17055,.,,HEIGHT3
+1,Yes,38946,9.13,7.06,DEAF
+2,No,385539,90.4,92.44,DEAF
+7,Don’t know/Not Sure,1246,0.29,0.27,DEAF
+9,Refused,757,0.18,0.23,DEAF
+,Not asked or Missing,18644,.,,DEAF
+1,Yes,23658,5.56,5.78,BLIND
+2,No,399910,94.04,93.75,BLIND
+7,Don’t know/Not Sure,1042,0.25,0.27,BLIND
+9,Refused,667,0.16,0.2,BLIND
+,Not asked or Missing,19855,.,,BLIND
+1,Yes,50100,11.81,13.34,DECIDE
+2,No,370792,87.42,85.81,DECIDE
+7,Don’t know/Not Sure,2266,0.53,0.56,DECIDE
+9,Refused,988,0.23,0.29,DECIDE
+,Not asked or Missing,20986,.,,DECIDE
+1,Yes,68081,16.1,13.75,DIFFWALK
+2,No,353039,83.47,85.78,DIFFWALK
+7,Don’t know/Not Sure,1221,0.29,0.28,DIFFWALK
+9,Refused,636,0.15,0.19,DIFFWALK
+,Not asked or Missing,22155,.,,DIFFWALK
+1,Yes,16813,3.98,3.85,DIFFDRES
+2,No,404404,95.77,95.81,DIFFDRES
+7,Don’t know/Not Sure,488,0.12,0.15,DIFFDRES
+9,Refused,548,0.13,0.19,DIFFDRES
+,Not asked or Missing,22879,.,,DIFFDRES
+1,Yes,32447,7.7,7.94,DIFFALON
+2,No,387029,91.89,91.57,DIFFALON
+7,Don’t know/Not Sure,1023,0.24,0.28,DIFFALON
+9,Refused,691,0.16,0.22,DIFFALON
+,Not asked or Missing,23942,.,,DIFFALON
+1,Yes,171601,77.36,65.51,HADMAM
+2,No,49005,22.09,33.75,HADMAM
+7,Don’t know/Not sure,556,0.25,0.39,HADMAM
+9,Refused,651,0.29,0.36,HADMAM
+,Not asked or Missing,,,,HADMAM
+1,Within the past year (anytime less than 12 months ago),97798,57.15,55.86,HOWLONG
+2,Within the past 2 years (1 year but less than 2 years ago),29149,17.04,17.71,HOWLONG
+3,Within the past 3 years (2 years but less than 3 years ago),12707,7.43,8.01,HOWLONG
+4,Within the past 5 years (3 years but less than 5 years ago),9843,5.75,6.2,HOWLONG
+5,5 or more years ago,18341,10.72,10.28,HOWLONG
+7,Don’t know/Not sure,2938,1.72,1.74,HOWLONG
+9,Refused,336,0.2,0.2,HOWLONG
+,Not asked or Missing,,,,HOWLONG
+1,Yes,135746,61.48,55.72,CERVSCRN
+2,No,68997,31.25,37.26,CERVSCRN
+7,Don’t know/Not Sure,15296,6.93,6.61,CERVSCRN
+9,Refused,775,0.35,0.41,CERVSCRN
+,Not asked or Missing,,,,CERVSCRN
+1,Within the past year (anytime less than 12 months ago),40738,30.05,34.96,CRVCLCNC
+2,Within the past 2 years (1 year but less than 2 years ago),23226,17.13,18.75,CRVCLCNC
+3,Within the past 3 years (2 years but less than 3 years ago),15530,11.45,11.6,CRVCLCNC
+4,Within the past 5 years (3 years but less than 5 years ago),14326,10.57,9.87,CRVCLCNC
+5,5 or more years ago,35493,26.18,20.74,CRVCLCNC
+7,Don’t know/Not sure,5863,4.32,3.8,CRVCLCNC
+9,Refused,401,0.3,0.28,CRVCLCNC
+,Not asked or Missing,,,,CRVCLCNC
+1,Yes,123657,91.34,91.95,CRVCLPAP
+2,No,8131,6.01,5.61,CRVCLPAP
+7,Don’t know/Not sure,3332,2.46,2.25,CRVCLPAP
+9,Refused,267,0.2,0.2,CRVCLPAP
+,Not asked or Missing,,,,CRVCLPAP
+1,Yes,45940,33.99,41.32,CRVCLHPV
+2,No,48659,36,31.73,CRVCLHPV
+7,Don’t know/Not sure,40188,29.73,26.64,CRVCLHPV
+9,Refused,385,0.28,0.32,CRVCLHPV
+,Not asked or Missing,,,,CRVCLHPV
+1,Yes,57360,26.35,20.22,HADHYST2
+2,No,158895,73,78.84,HADHYST2
+7,Don’t know/Not sure,540,0.25,0.38,HADHYST2
+9,Refused,884,0.41,0.55,HADHYST2
+,Not asked or Missing,,,,HADHYST2
+1,Yes,213158,72.82,68.17,HADSIGM4
+2,No,76372,26.09,30.53,HADSIGM4
+7,Don’t know/Not Sure,1811,0.62,0.74,HADSIGM4
+9,Refused,1378,0.47,0.55,HADSIGM4
+,Not asked or Missing,,,,HADSIGM4
+1,Colonoscopy,177396,83.35,82.43,COLNSIGM
+2,Sigmoidoscopy,1309,0.62,0.63,COLNSIGM
+3,Both,30252,14.21,14.47,COLNSIGM
+7,Don’t know/Not Sure,3455,1.62,2.2,COLNSIGM
+9,Refused,411,0.19,0.26,COLNSIGM
+,Not asked or Missing,,,,COLNSIGM
+1,Within the past year (anytime less than 12 months ago),41127,19.84,20.96,COLNTES1
+2,Within the past 2 years (1 year but less than 2 years ago),31256,15.08,15.72,COLNTES1
+3,Within the past 5 years (2 years but less than 5 years ago),70204,33.87,33.68,COLNTES1
+4,Within the past 10 years (5 years but less than 10 years ago),40407,19.49,18.55,COLNTES1
+5,10 or more years ago,20071,9.68,8.98,COLNTES1
+7,Don’t know/Not sure,3919,1.89,1.91,COLNTES1
+9,Refused,300,0.14,0.19,COLNTES1
+,Not asked or Missing,,,,COLNTES1
+1,Within the past year (anytime less than 12 months ago),4115,13.12,15.96,SIGMTES1
+2,Within the past 2 years (1 year but less than 2 years ago),2971,9.47,10.73,SIGMTES1
+3,Within the past 5 years (2 years but less than 5 years ago),5839,18.62,20.09,SIGMTES1
+4,Within the past 10 years (5 years but less than 10 years ago),4072,12.98,13.21,SIGMTES1
+5,10 or more years ago,10530,33.57,27.48,SIGMTES1
+7,Don’t know/Not sure,3647,11.63,11.83,SIGMTES1
+9,Refused,189,0.6,0.71,SIGMTES1
+,Not asked or Missing,,,,SIGMTES1
+1,Within the past year (anytime less than 12 months ago),604,17.39,21.06,LASTSIG4
+2,Within the past 2 years (1 year but less than 2 years ago),394,11.34,12.59,LASTSIG4
+3,Within the past 5 years (2 years but less than 5 years ago),800,23.03,21.69,LASTSIG4
+4,Within the past 10 years (5 years but less than 10 years ago),505,14.54,14.18,LASTSIG4
+5,10 or more years ago,449,12.92,10.48,LASTSIG4
+7,Don’t know/Not sure,694,19.98,19.46,LASTSIG4
+9,Refused,28,0.81,0.54,LASTSIG4
+,Not asked or Missing,,,,LASTSIG4
+1,Yes,61981,21.29,21.11,COLNCNCR
+2,No,219810,75.51,75.42,COLNCNCR
+7,Don’t know/Not Sure,7848,2.7,2.87,COLNCNCR
+9,Refused,1447,0.5,0.59,COLNCNCR
+,Not asked or Missing,,,,COLNCNCR
+1,Yes,9013,14.57,16.87,VIRCOLO1
+2,No,49974,80.78,78.5,VIRCOLO1
+7,Don’t know/Not Sure,2834,4.58,4.56,VIRCOLO1
+9,Refused,46,0.07,0.06,VIRCOLO1
+,Not asked or Missing,,,,VIRCOLO1
+1,Within the past year (anytime less than 12 months ago),2074,23.1,25.29,VCLNTES2
+2,Within the past 2 years (1 year but less than 2 years ago),1268,14.12,15.6,VCLNTES2
+3,Within the past 5 years (2 years but less than 5 years ago),2428,27.04,27.4,VCLNTES2
+4,Within the past 10 years (5 years but less than 10 years ago),1491,16.61,15.41,VCLNTES2
+5,10 or more years ago,1205,13.42,10.79,VCLNTES2
+7,Don’t know/Not sure,492,5.48,5.32,VCLNTES2
+9,Refused,21,0.23,0.19,VCLNTES2
+,Not asked or Missing,,,,VCLNTES2
+1,Yes,49440,80.16,79.78,SMALSTOL
+2,No,11518,18.68,18.99,SMALSTOL
+7,Don’t know/Not Sure,661,1.07,1.15,SMALSTOL
+9,Refused,57,0.09,0.08,SMALSTOL
+,Not asked or Missing,,,,SMALSTOL
+1,Within the past year (anytime less than 12 months ago),18325,37.11,40.47,STOLTEST
+2,Within the past 2 years (1 year but less than 2 years ago),8529,17.27,18.54,STOLTEST
+3,Within the past 3 years (2 years but less than 3 years ago),5316,10.77,10.4,STOLTEST
+4,Within the past 5 years (3 years but less than 5 years ago),5227,10.59,10.31,STOLTEST
+5,5 or more years ago,10479,21.22,17.58,STOLTEST
+7,Don’t know/Not sure,1449,2.93,2.59,STOLTEST
+9,Refused,49,0.1,0.12,STOLTEST
+,Not asked or Missing,,,,STOLTEST
+1,Yes,11432,18.62,20.36,STOOLDN2
+2,No,48227,78.54,76.72,STOOLDN2
+7,Don’t know/Not Sure,1634,2.66,2.73,STOOLDN2
+9,Refused,109,0.18,0.19,STOOLDN2
+,Not asked or Missing,,,,STOOLDN2
+1,Yes,7591,66.62,66.1,BLDSTFIT
+2,No,2175,19.09,18.97,BLDSTFIT
+7,Don’t know/Not Sure,1597,14.02,14.6,BLDSTFIT
+9,Refused,31,0.27,0.33,BLDSTFIT
+,Not asked or Missing,,,,BLDSTFIT
+1,Within the past year (anytime less than 12 months ago),4798,42.23,43.15,SDNATES1
+2,Within the past 2 years (1 year but less than 2 years ago),2230,19.63,21.05,SDNATES1
+3,Within the past 3 years (2 years but less than 3 years ago),1378,12.13,11.59,SDNATES1
+4,Within the past 5 years (3 years but less than 5 years ago),1102,9.7,9.05,SDNATES1
+5,5 or more years ago,1300,11.44,9.95,SDNATES1
+7,Don’t know/Not sure,510,4.49,4.57,SDNATES1
+9,Refused,44,0.39,0.64,SDNATES1
+,Not asked or Missing,,,,SDNATES1
+1,Yes,164217,39.73,36.76,SMOKE100
+2,No,245955,59.5,62.41,SMOKE100
+7,Don’t know/Not Sure,2297,0.56,0.56,SMOKE100
+9,Refused,886,0.21,0.27,SMOKE100
+,Not asked or Missing,31777,.,,SMOKE100
+1,Every day,36003,21.95,24.09,SMOKDAY2
+2,Some days,13938,8.5,10.54,SMOKDAY2
+3,Not at all,113774,69.35,65.15,SMOKDAY2
+7,Don´t Know/Not Sure,165,0.1,0.12,SMOKDAY2
+9,Refused,173,0.11,0.1,SMOKDAY2
+,Not asked or Missing,,,,SMOKDAY2
+1,Every day,7333,1.78,1.68,USENOW3
+2,Some days,5358,1.3,1.51,USENOW3
+3,Not at all,398616,96.63,96.38,USENOW3
+7,Don’t know/Not Sure,353,0.09,0.13,USENOW3
+9,Refused,872,0.21,0.3,USENOW3
+,Not asked or Missing,32600,.,,USENOW3
+1,Never used e-cigarettes in your entire life,311988,75.81,70.26,ECIGNOW2
+2,Use them every day,10382,2.52,3.42,ECIGNOW2
+3,Use them some days,11734,2.85,4.01,ECIGNOW2
+4,Not at all (right now),75368,18.31,21.64,ECIGNOW2
+7,Don’t know / Not sure,905,0.22,0.27,ECIGNOW2
+9,Refused,1176,0.29,0.4,ECIGNOW2
+,Not asked or Missing,33579,.,,ECIGNOW2
+1 - 100,Age in Years,153326,94.81,94.89,LCSFIRST
+777,Don’t know/Not Sure,2877,1.78,1.8,LCSFIRST
+888,Never smoked cigarettes regularly,4858,3,2.89,LCSFIRST
+999,Refused,654,0.4,0.41,LCSFIRST
+,Not asked or Missing,,,,LCSFIRST
+1 - 100,Age in Years,115158,95.47,95.46,LCSLAST
+777,Don’t know/Not Sure,4619,3.83,3.76,LCSLAST
+999,Refused,842,0.7,0.78,LCSLAST
+,Not asked or Missing,,,,LCSLAST
+0,,1,0,0,LCSNUMCG
+1 - 300,Number of cigarettes,150246,96.23,96.21,LCSNUMCG
+777,Don’t know/Not Sure,5167,3.31,3.24,LCSNUMCG
+999,Refused,726,0.46,0.56,LCSNUMCG
+,Not asked or Missing,,,,LCSNUMCG
+1,Yes,165865,40.76,37.24,LCSCTSC1
+2,No,223221,54.86,58.69,LCSCTSC1
+7,Don’t know/Not sure,16876,4.15,3.78,LCSCTSC1
+9,Refused,960,0.24,0.3,LCSCTSC1
+,Not asked or Missing,38210,.,,LCSCTSC1
+1,Yes,31581,19.07,18.34,LCSSCNCR
+2,No,124356,75.11,76.26,LCSSCNCR
+7,Don’t know/Not sure,9512,5.74,5.32,LCSSCNCR
+9,Refused,126,0.08,0.07,LCSSCNCR
+,Not asked or Missing,,,,LCSSCNCR
+1,Within the past year (anytime less than 12 months ago),14040,44.56,44.23,LCSCTWHN
+2,Within the past 2 years (1 year but less than 2 years),4292,13.62,13.86,LCSCTWHN
+3,Within the past 3 years (2 years but less than 3 years),2684,8.52,8.37,LCSCTWHN
+4,Within the past 5 years (3 years but less than 5 years),3227,10.24,10.67,LCSCTWHN
+5,Within the past 10 years (5 years but less than 10 years ago),2888,9.17,9.17,LCSCTWHN
+6,10 or more years ago,3152,10,9.22,LCSCTWHN
+7,Don’t know / Not sure,1169,3.71,4.3,LCSCTWHN
+9,Refused,53,0.17,0.18,LCSCTWHN
+,Not asked or Missing,,,,LCSCTWHN
+101 - 199,Days per week,66151,16.36,15.77,ALCDAY4
+201 - 299,Days in past 30 days,144740,35.79,35.87,ALCDAY4
+777,Don’t know/Not sure,3447,0.85,1.05,ALCDAY4
+888,No drinks in past 30 days,187667,46.41,46.66,ALCDAY4
+999,Refused,2364,0.58,0.66,ALCDAY4
+,Not asked or Missing,40763,.,,ALCDAY4
+1 - 76,Number of drinks,206595,98.21,97.58,AVEDRNK3
+88,None,1165,0.55,0.67,AVEDRNK3
+77,Don’t know/Not sure,2143,1.02,1.48,AVEDRNK3
+99,Refused,460,0.22,0.27,AVEDRNK3
+,Not asked or Missing,,,,AVEDRNK3
+1 - 76,Number of Times,56916,27.12,31.2,DRNK3GE5
+88,None,149447,71.22,66.55,DRNK3GE5
+77,Don’t know/Not Sure,2940,1.4,1.91,DRNK3GE5
+99,Refused,546,0.26,0.34,DRNK3GE5
+,Not asked or Missing,,,,DRNK3GE5
+0,,4,0,0,MAXDRNKS
+1 - 76,Number of drinks,202765,96.83,95.86,MAXDRNKS
+77,Don’t know/Not sure,5592,2.67,3.55,MAXDRNKS
+99,Refused,1050,0.5,0.59,MAXDRNKS
+,Not asked or Missing,,,,MAXDRNKS
+1,Yes,209256,52.11,44.53,FLUSHOT7
+2,No,188755,47.01,54.46,FLUSHOT7
+7,Don’t know/Not Sure,2455,0.61,0.69,FLUSHOT7
+9,Refused,1073,0.27,0.32,FLUSHOT7
+,,43593,.,,FLUSHOT7
+12021 - 122022,Month / Year,189723,90.83,89.08,FLSHTMY3
+777777,Don’t know/Not Sure,18541,8.88,10.56,FLSHTMY3
+999999,Refused,605,0.29,0.36,FLSHTMY3
+,Not asked or Missing,,,,FLSHTMY3
+1,Yes,152488,38.08,29.59,PNEUVAC4
+2,No,215604,53.85,60.53,PNEUVAC4
+7,Don’t know/Not Sure,31387,7.84,9.59,PNEUVAC4
+9,Refused,921,0.23,0.28,PNEUVAC4
+,Not asked or Missing,44732,.,,PNEUVAC4
+1,Yes received Tdap,99943,25,24.55,TETANUS1
+2,Yes received tetanus shot but not Tdap,27455,6.87,6.3,TETANUS1
+3,Yes received tetanus shot but not sure what type,113725,28.45,26.62,TETANUS1
+4,No did not receive any tetanus shot in the past 10 years,121493,30.39,32.56,TETANUS1
+7,Don’t know/Not Sure,36165,9.05,9.64,TETANUS1
+9,Refused,968,0.24,0.33,TETANUS1
+,Not asked or Missing,45383,.,,TETANUS1
+1,Yes,129086,32.36,36.1,HIVTST7
+2,No,249919,62.65,59.31,HIVTST7
+7,Don’t know/Not Sure,18974,4.76,4.31,HIVTST7
+9,Refused,918,0.23,0.29,HIVTST7
+,Not asked or Missing,46235,.,,HIVTST7
+11985 - 122023,Code month and year,90847,70.5,72.55,HIVTSTD3
+777777,Don’t know/Not sure,37389,29.01,26.97,HIVTSTD3
+999999,Refused,627,0.49,0.48,HIVTSTD3
+,Not asked or Missing,,,,HIVTSTD3
+1,Yes,17185,4.33,6.08,HIVRISK5
+2,No,377324,95.12,93.25,HIVRISK5
+7,Don’t know/Not sure,450,0.11,0.14,HIVRISK5
+9,Refused,1712,0.43,0.53,HIVRISK5
+,Not asked or Missing,48461,.,,HIVRISK5
+1,Yes,110877,28.01,31.08,COVIDPOS
+2,No,270055,68.21,65.28,COVIDPOS
+3,Tested positive using home test without health professional,13436,3.39,3.17,COVIDPOS
+7,Don’t know/Not Sure,647,0.16,0.18,COVIDPOS
+9,Refused,882,0.22,0.28,COVIDPOS
+,Not asked or Missing,49235,.,,COVIDPOS
+1,Yes,26783,21.56,21.42,COVIDSMP
+2,No,94596,76.16,76.63,COVIDSMP
+7,Don’t know/Not Sure,2710,2.18,1.87,COVIDSMP
+9,Refused,110,0.09,0.09,COVIDSMP
+,Not asked or Missing,,,,COVIDSMP
+1,Tiredness or fatigue,7072,26.47,25.1,COVIDPRM
+2,Difficulty thinking or concentrating or forgetfulness/memory problems (sometimes referred to as ´brain fog´),2564,9.6,9.38,COVIDPRM
+3,Difficulty breathing or shortness of breath,4772,17.86,18.1,COVIDPRM
+4,Joint or muscle pain,1378,5.16,5.98,COVIDPRM
+5,Fast-beating or pounding heart (also known as heart palpitations) or chest pain,724,2.71,2.8,COVIDPRM
+6,Dizziness on standing,409,1.53,1.52,COVIDPRM
+7,Depression anxiety or mood changes,322,1.21,1.36,COVIDPRM
+8,Symptoms that get worse after physical or mental activities,243,0.91,0.87,COVIDPRM
+9,You did not have any long-term symptoms that limited your activities1353,5.06,4.99,,COVIDPRM
+10,Loss of taste or smell,4234,15.85,16.34,COVIDPRM
+11,Some other symptom,2511,9.4,9.47,COVIDPRM
+77,Don’t know/Not Sure,1004,3.76,3.49,COVIDPRM
+99,Refused,129,0.48,0.6,COVIDPRM
+,Not asked or Missing,,,,COVIDPRM
+1,Within the past year (anytime less than 12 months ago),89696,63.96,58.7,PDIABTS1
+2,Within the past 2 years (1 year but less than 2 years),13615,9.71,10.36,PDIABTS1
+3,Within the past 3 years (2 years but less than 3 years),5312,3.79,4.41,PDIABTS1
+4,Within the past 5 years (3 to 4 years but less than 5 years ago),4475,3.19,3.61,PDIABTS1
+5,Within the past 10 years (5 to 9 years but less than 10 years ago),2856,2.04,2.26,PDIABTS1
+6,10 or more years ago,2555,1.82,1.98,PDIABTS1
+7,Don’t know / Not sure,8762,6.25,6.98,PDIABTS1
+8,Never,12758,9.1,11.57,PDIABTS1
+9,Refused,219,0.16,0.13,PDIABTS1
+,Not asked or Missing,,,,PDIABTS1
+1,Yes,19361,13.81,11.98,PREDIAB2
+2,Yes during pregnancy,1504,1.07,1.25,PREDIAB2
+3,No,118648,84.61,86.25,PREDIAB2
+7,Don’t know/Not Sure,588,0.42,0.44,PREDIAB2
+9,Refused,121,0.09,0.09,PREDIAB2
+,Not asked or Missing,,,,PREDIAB2
+1,Type 1,1050,8.33,9.98,DIABTYPE
+2,Type 2,10559,83.8,81.48,DIABTYPE
+7,Don’t know/Not Sure,966,7.67,8.29,DIABTYPE
+9,Refused,25,0.2,0.24,DIABTYPE
+,Not asked or Missing,,,,DIABTYPE
+1,Yes,4178,33.16,34,INSULIN1
+2,No,8368,66.41,65.52,INSULIN1
+7,Don’t know/Not Sure,43,0.34,0.42,INSULIN1
+9,Refused,11,0.09,0.06,INSULIN1
+,Not asked or Missing,,,,INSULIN1
+1 - 76,Number of times [76=76 or more],11247,89.26,86.84,CHKHEMO3
+88,None,561,4.45,6.15,CHKHEMO3
+98,Never heard of “A one C” test,79,0.63,0.71,CHKHEMO3
+77,Don’t know/Not sure,662,5.25,5.91,CHKHEMO3
+99,Refused,51,0.4,0.39,CHKHEMO3
+,Not asked or Missing,,,,CHKHEMO3
+1,Within the past month (anytime less than 1 month ago),3287,26.09,23.98,EYEEXAM1
+2,Within the past year (1 month but less than 12 months ago),5566,44.17,42.19,EYEEXAM1
+3,Within the past 2 years (1 year but less than 2 years ago),1577,12.52,12.91,EYEEXAM1
+4,2 or more years ago,1469,11.66,13.39,EYEEXAM1
+7,Don’t know/Not sure,272,2.16,2.65,EYEEXAM1
+8,Never,421,3.34,4.78,EYEEXAM1
+9,Refused,8,0.06,0.1,EYEEXAM1
+,Not asked or Missing,,,,EYEEXAM1
+1,Within the past month (anytime less than 1 month ago),2495,19.8,18.48,DIABEYE1
+2,Within the past year (1 month but less than 12 months ago),4710,37.38,36.03,DIABEYE1
+3,Within the past 2 years (1 year but less than 2 years ago),1333,10.58,10.83,DIABEYE1
+4,2 or more years ago,1293,10.26,10.98,DIABEYE1
+7,Don’t know/Not sure,1633,12.96,12.85,DIABEYE1
+8,Never,1126,8.94,10.76,DIABEYE1
+9,Refused,10,0.08,0.08,DIABEYE1
+,Not asked or Missing,,,,DIABEYE1
+1,Within the past year (anytime less than 12 months ago),1338,10.62,11.12,DIABEDU1
+2,Within the last 2 years (1 year but less than 2 years ago),724,5.75,6.05,DIABEDU1
+3,Within the last 3 years (2 years but less than 3 years ago),560,4.44,4.29,DIABEDU1
+4,Within the last 5 years (3 to 4 years but less than 5 years ago),845,6.71,6.83,DIABEDU1
+5,Within the last 10 years (5 to 9 years but less than 10 years ago),792,6.29,6.31,DIABEDU1
+6,10 years ago or more,1749,13.88,12.46,DIABEDU1
+7,Don’t know/Not sure,613,4.87,4.64,DIABEDU1
+8,Never,5953,47.25,48.12,DIABEDU1
+9,Refused,26,0.21,0.18,DIABEDU1
+,Not asked or Missing,,,,DIABEDU1
+1,Yes,1151,9.13,9.7,FEETSORE
+2,No,11398,90.46,89.88,FEETSORE
+7,Don’t know/Not sure,46,0.37,0.39,FEETSORE
+9,Refused,5,0.04,0.03,FEETSORE
+,Not asked or Missing,,,,FEETSORE
+1,A doctor´s office or health maintenance organization (HMO),2753,30.44,31.05,IMFVPLA3
+2,A health department,232,2.57,2.47,IMFVPLA3
+3,Another type of clinic or health center (a community health center),424,4.69,4.6,IMFVPLA3
+4,A senior recreation or community center,48,0.53,0.36,IMFVPLA3
+5,A store (supermarket drug store),4389,48.53,46.54,IMFVPLA3
+6,A hospital (inpatient or outpatient),413,4.57,5.19,IMFVPLA3
+7,An emergency room,4,0.04,0.04,IMFVPLA3
+8,Workplace,410,4.53,5,IMFVPLA3
+9,Some other kind of place,218,2.41,2.41,IMFVPLA3
+10,A school,58,0.64,1.24,IMFVPLA3
+11,A drive though location at some other place than listed above,33,0.36,0.35,IMFVPLA3
+77,Don’t know / Not sure,53,0.59,0.64,IMFVPLA3
+99,Refused,8,0.09,0.13,IMFVPLA3
+,Not asked or Missing,,,,IMFVPLA3
+1,Yes,1676,22.82,25.5,HPVADVC4
+2,No,4797,65.3,60.77,HPVADVC4
+3,Doctor refused when asked,8,0.11,0.02,HPVADVC4
+7,Don’t know/Not Sure,851,11.58,13.44,HPVADVC4
+9,Refused,14,0.19,0.28,HPVADVC4
+,Not asked or Missing,,,,HPVADVC4
+1 - 2,Number of shots,706,42.22,43.07,HPVADSHT
+3,All shots,632,37.8,32.67,HPVADSHT
+77,Don’t know/Not Sure,329,19.68,24.04,HPVADSHT
+99,Refused,5,0.3,0.22,HPVADSHT
+,Not asked or Missing,,,,HPVADSHT
+1,Yes,6561,44.52,39.14,SHINGLE2
+2,No,7943,53.9,59.06,SHINGLE2
+7,Don’t know/Not Sure,220,1.49,1.66,SHINGLE2
+9,Refused,13,0.09,0.14,SHINGLE2
+,Not asked or Missing,,,,SHINGLE2
+1,Yes,124818,81.56,78.12,COVIDVA1
+2,No,27011,17.65,21.07,COVIDVA1
+7,Don’t know/Not sure,319,0.21,0.17,COVIDVA1
+9,Refused,895,0.58,0.65,COVIDVA1
+,Not asked or Missing,292089,.,,COVIDVA1
+1,One,6712,5.38,6.48.COVIDNU1,COVIDVA1
+2,Two,36926,29.6,34.94,COVIDVA1
+3,Three,57488,46.08,44.52,COVIDVA1
+4,Four or more,23051,18.48,13.63,COVIDVA1
+7,Don’t know/Not sure,446,0.36,0.32,COVIDVA1
+9,Refused,124,0.1,0.11,COVIDVA1
+,Not asked or Missing,,,,COVIDVA1
+12019,1-2019,6,0,0,COVIDFS1
+12020,1-2020,701,0.57,0.43,COVIDFS1
+12021,1-2021,10859,8.76,6.96,COVIDFS1
+12022,1-2022,1042,0.84,0.96,COVIDFS1
+12023,1-2023,1,0,0,COVIDFS1
+22019,2-2019,15,0.01,0.01,COVIDFS1
+22020,2-2020,861,0.69,0.55,COVIDFS1
+22021,2-2021,15004,12.11,9.21,COVIDFS1
+22022,2-2022,773,0.62,0.79,COVIDFS1
+32019,3-2019,18,0.01,0.01,COVIDFS1
+32020,3-2020,1346,1.09,0.87,COVIDFS1
+32021,3-2021,22150,17.87,17.15,COVIDFS1
+32022,3-2022,624,0.5,0.67,COVIDFS1
+42019,4-2019,12,0.01,0.01,COVIDFS1
+42020,4-2020,961,0.78,0.68,COVIDFS1
+42021,4-2021,14920,12.04,13.64,COVIDFS1
+42022,4-2022,354,0.29,0.31,COVIDFS1
+52019,5-2019,10,0.01,0.02,COVIDFS1
+52020,5-2020,514,0.41,0.4,COVIDFS1
+52021,5-2021,5951,4.8,5.78,COVIDFS1
+52022,5-2022,175,0.14,0.16,COVIDFS1
+62019,6-2019,3,0,0,COVIDFS1
+62020,6-2020,315,0.25,0.27,COVIDFS1
+62021,6-2021,3411,2.75,3.71,COVIDFS1
+62022,6-2022,159,0.13,0.15,COVIDFS1
+72020,7-2020,189,0.15,0.17,COVIDFS1
+72021,7-2021,2342,1.89,2.39,COVIDFS1
+72022,7-2022,102,0.08,0.1,COVIDFS1
+82019,8-2019,5,0,0.01,COVIDFS1
+82020,8-2020,264,0.21,0.2,COVIDFS1
+82021,8-2021,3011,2.43,3.22,COVIDFS1
+82022,8-2022,86,0.07,0.07,COVIDFS1
+92019,9-2019,6,0,0,COVIDFS1
+92020,9-2020,323,0.26,0.23,COVIDFS1
+92021,9-2021,2651,2.14,2.38,COVIDFS1
+92022,9-2022,66,0.05,0.04,COVIDFS1
+102019,10-2019,7,0.01,0.01,COVIDFS1
+102020,10-2020,437,0.35,0.28,COVIDFS1
+102021,10-2021,2442,1.97,2.25,COVIDFS1
+102022,10-2022,62,0.05,0.04,COVIDFS1
+112019,11-2019,6,0,0,COVIDFS1
+112020,11-2020,614,0.5,0.43,COVIDFS1
+112021,11-2021,1767,1.43,1.67,COVIDFS1
+112022,11-2022,25,0.02,0.01,COVIDFS1
+122019,12-2019,23,0.02,0.02,COVIDFS1
+122020,12-2020,3209,2.59,2.43,COVIDFS1
+122021,12-2021,1277,1.03,1.14,COVIDFS1
+122022,12-2022,11,0.01,0.01,COVIDFS1
+772019,2019,8,0.01,0.01,COVIDFS1
+772020 - 77202,Unknown month and known year,326,0.26,0.19,COVIDFS1
+772021,2020,2369,1.91,1.85,COVIDFS1
+772022,2021,116,0.09,0.08,COVIDFS1
+777777,Don’t know/Not sure,21666,17.48,17.73,COVIDFS1
+992020,,2,0,0,COVIDFS1
+999999,Refused,342,0.28,0.27,COVIDFS1
+,Not asked or Missing,,,,COVIDFS1
+12020,1-2020,57,0.05,0.05,COVIDSE1
+12021,1-2021,3142,2.68,2.53,COVIDSE1
+12022,1-2022,1876,1.6,1.76,COVIDSE1
+12023,1-2023,4,0,0,COVIDSE1
+22019,2-2019,3,0,0,COVIDSE1
+22020,2-2020,303,0.26,0.23,COVIDSE1
+22021,2-2021,8825,7.54,6,COVIDSE1
+22022,2-2022,1349,1.15,1.25,COVIDSE1
+32019,3-2019,3,0,0,COVIDSE1
+32020,3-2020,458,0.39,0.26,COVIDSE1
+32021,3-2021,13694,11.7,9.02,COVIDSE1
+32022,3-2022,1166,1,1.21,COVIDSE1
+42019,4-2019,7,0.01,0.01,COVIDSE1
+42020,4-2020,556,0.47,0.41,COVIDSE1
+42021,4-2021,16420,14.02,14.02,COVIDSE1
+42022,4-2022,813,0.69,0.78,COVIDSE1
+52019,5-2019,6,0.01,0.01,COVIDSE1
+52020,5-2020,460,0.39,0.38,COVIDSE1
+52021,5-2021,10245,8.75,10.02,COVIDSE1
+52022,5-2022,519,0.44,0.44,COVIDSE1
+62019,6-2019,7,0.01,0.01,COVIDSE1
+62020,6-2020,402,0.34,0.3,COVIDSE1
+62021,6-2021,5768,4.93,5.59,COVIDSE1
+62022,6-2022,370,0.32,0.35,COVIDSE1
+72020,7-2020,245,0.21,0.2,COVIDSE1
+72021,7-2021,3401,2.9,3.78,COVIDSE1
+72022,7-2022,249,0.21,0.23,COVIDSE1
+82019,8-2019,3,0,0.01,COVIDSE1
+82020,8-2020,258,0.22,0.2,COVIDSE1
+82021,8-2021,3421,2.92,3.33,COVIDSE1
+82022,8-2022,190,0.16,0.19,COVIDSE1
+92019,9-2019,5,0,0,COVIDSE1
+92020,9-2020,302,0.26,0.25,COVIDSE1
+92021,9-2021,3888,3.32,3.72,COVIDSE1
+92022,9-2022,161,0.14,0.11,COVIDSE1
+102019,10-2019,3,0,0,COVIDSE1
+102020,10-2020,315,0.27,0.22,COVIDSE1
+102021,10-2021,4070,3.48,3.72,COVIDSE1
+102022,10-2022,141,0.12,0.09,COVIDSE1
+112019,11-2019,4,0,0,COVIDSE1
+112020,11-2020,285,0.24,0.2,COVIDSE1
+112021,11-2021,3594,3.07,3.44,COVIDSE1
+112022,11-2022,90,0.08,0.06,COVIDSE1
+122019,12-2019,3,0,0.01,COVIDSE1
+122020,12-2020,289,0.25,0.23,COVIDSE1
+122021,12-2021,2787,2.38,2.7,COVIDSE1
+122022,12-2022,29,0.02,0.02,COVIDSE1
+772019,2019,1,0,0,COVIDSE1
+772020 - 77202,Unknown month and known year,184,0.16,0.1,COVIDSE1
+772021,2021,2513,2.15,2.01,COVIDSE1
+772022,2022,183,0.16,0.14,COVIDSE1
+772023,2023,1,0,0,COVIDSE1
+777777,Don’t know/Not sure,23613,20.17,20.06,COVIDSE1
+992020,,1,0,0,COVIDSE1
+999999,Refused,407,0.35,0.34,COVIDSE1
+,Not asked or Missing,,,,COVIDSE1
+1,Yes,939,12.92,12.67,COPDCOGH
+2,No,6296,86.61,86.95,COPDCOGH
+7,Don’t know/Not Sure,25,0.34,0.28,COPDCOGH
+9,Refused,9,0.12,0.11,COPDCOGH
+,Not asked or Missing,437863,.,,COPDCOGH
+1,Yes,925,12.74,11.94,COPDFLEM
+2,No,6303,86.79,87.61,COPDFLEM
+7,Don’t know/Not Sure,26,0.36,0.35,COPDFLEM
+9,Refused,8,0.11,0.09,COPDFLEM
+,Not asked or Missing,437870,.,,COPDFLEM
+1,Yes,1899,26.2,22.44,COPDBRTH
+2,No,5305,73.18,77.17,COPDBRTH
+7,Don’t know/Not Sure,35,0.48,0.21,COPDBRTH
+9,Refused,10,0.14,0.17,COPDBRTH
+,Not asked or Missing,437883,.,,COPDBRTH
+1,Yes,2171,30.02,24.73,COPDBTST
+2,No,4954,68.5,74,COPDBTST
+7,Don’t know/Not Sure,103,1.42,1.22,COPDBTST
+9,Refused,4,0.06,0.05,COPDBTST
+,Not asked or Missing,437900,.,,COPDBTST
+1 - 76,Number of years,2808,38.92,36.77,COPDSMOK
+88,Never smoked or smoked < one year,4126,57.19,59.61,COPDSMOK
+77,Don´t know/Not sure,232,3.22,2.89,COPDSMOK
+99,Refused,49,0.68,0.73,COPDSMOK
+,Not asked or Missing,437917,.,,COPDSMOK
+1,Only one,17566,75.07,76.13,CNCRDIFF
+2,Two,4070,17.39,16.2,CNCRDIFF
+3,Three or more,947,4.05,3.65,CNCRDIFF
+7,Don’t know/Not Sure,425,1.82,1.73,CNCRDIFF
+9,Refused,391,1.67,2.29,CNCRDIFF
+,Not asked or Missing,,,,CNCRDIFF
+1 - 97,Age in years (97=97 and older),21413,94.89,94.71,CNCRAGE
+98,Don’t know/Not Sure,1023,4.53,4.78,CNCRAGE
+99,Refused,129,0.57,0.51,CNCRAGE
+,Missing,,,,CNCRAGE
+1,Bladder,377,1.67,1.9,CNCRTYP2
+2,Blood,103,0.46,0.4,CNCRTYP2
+3,Bone,83,0.37,0.4,CNCRTYP2
+4,Brain,74,0.33,0.39,CNCRTYP2
+5,Breast,2908,12.9,13.04,CNCRTYP2
+6,Cervix/Cervical,552,2.45,3.03,CNCRTYP2
+7,Colon,690,3.06,3.4,CNCRTYP2
+8,Esophagus/Esophageal,65,0.29,0.34,CNCRTYP2
+9,Gallbladder,11,0.05,0.03,CNCRTYP2
+10,Kidney,318,1.41,1.36,CNCRTYP2
+11,Larynx-trachea,18,0.08,0.13,CNCRTYP2
+12,Leukemia,250,1.11,1.17,CNCRTYP2
+13,Liver,79,0.35,0.37,CNCRTYP2
+14,Lung,451,2,2.34,CNCRTYP2
+15,Lymphoma,460,2.04,2.06,CNCRTYP2
+16,Melanoma,2708,12.01,12.44,CNCRTYP2
+17,Mouth/tongue/lip,49,0.22,0.2,CNCRTYP2
+18,Ovary/Ovarian,209,0.93,1.29,CNCRTYP2
+19,Pancreas/Pancreatic,87,0.39,0.42,CNCRTYP2
+20,Prostate,1826,8.1,7.84,CNCRTYP2
+21,Rectum/Rectal,85,0.38,0.38,CNCRTYP2
+22,Skin (non-melanoma),6252,27.73,26.17,CNCRTYP2
+23,Skin (don´t know what kind),1485,6.59,5.94,CNCRTYP2
+24,Soft tissue (muscle or fat),30,0.13,0.12,CNCRTYP2
+25,Stomach,62,0.28,0.22,CNCRTYP2
+26,Testis/Testicular,90,0.4,0.41,CNCRTYP2
+27,Throat - pharynx,96,0.43,0.44,CNCRTYP2
+28,Thyroid,416,1.85,2.27,CNCRTYP2
+29,Uterus/Uterine,400,1.77,1.56,CNCRTYP2
+30,Other,1358,6.02,6.15,CNCRTYP2
+77,Don’t know/Not sure,804,3.57,3.11,CNCRTYP2
+99,Refused,148,0.66,0.68,CNCRTYP2
+,Not asked or Missing,,,,CNCRTYP2
+1,Yes,2179,12.59,12.35,CSRVTRT3
+2,No I’ve completed treatment,9826,56.79,56.45,CSRVTRT3
+3,No I’ve refused treatment,127,0.73,0.79,CSRVTRT3
+4,No I haven’t started treatment,616,3.56,3.58,CSRVTRT3
+5,Treatment was not necessary,4099,23.69,24.16,CSRVTRT3
+7,Don’t know/Not Sure,244,1.41,1.18,CSRVTRT3
+9,Refused,211,1.22,1.49,CSRVTRT3
+,Not asked or Missing,,,,CSRVTRT3
+1,Cancer Surgeon,348,3.55,3.9,CSRVDOC1
+2,Family Practitioner,3861,39.37,39.3,CSRVDOC1
+3,General Surgeon,155,1.58,1.44,CSRVDOC1
+4,Gynecologic Oncologist—Should not be answered if male respondent,231,2.36,2.8,CSRVDOC1
+5,General Practitioner Internist,2717,27.7,26.13,CSRVDOC1
+6,Plastic Surgeon Reconstructive Surgeon,50,0.51,0.49,CSRVDOC1
+7,Medical Oncologist,481,4.9,5.74,CSRVDOC1
+8,Radiation Oncologist,93,0.95,0.93,CSRVDOC1
+9,Urologist,184,1.88,2.45,CSRVDOC1
+10,Other,1405,14.33,13.98,CSRVDOC1
+77,Don’t know/Not Sure,251,2.56,2.41,CSRVDOC1
+99,Refused,31,0.32,0.44,CSRVDOC1
+,Not asked or Missing,,,,CSRVDOC1
+1,Yes,4248,43.42,44.47,CSRVSUM
+2,No,4845,49.52,48.09,CSRVSUM
+7,Don’t know/Not Sure,664,6.79,7.28,CSRVSUM
+9,Refused,26,0.27,0.17,CSRVSUM
+,Not asked or Missing,,,,CSRVSUM
+1,Yes,7262,74.32,75.13,CSRVRTRN
+2,No,2274,23.27,22.18,CSRVRTRN
+7,Don’t know/Not Sure,192,1.96,2.37,CSRVRTRN
+9,Refused,43,0.44,0.32,CSRVRTRN
+,Not asked or Missing,,,,CSRVRTRN
+1,Yes,5303,73.14,74.76,CSRVINST
+2,No,1435,19.79,17.7,CSRVINST
+7,Don’t know/Not Sure,505,6.97,7.47,CSRVINST
+9,Refused,7,0.1,0.07,CSRVINST
+,Not asked or Missing,,,,CSRVINST
+1,Yes,9222,94.6,91.92,CSRVINSR
+2,No,383,3.93,6.27,CSRVINSR
+7,Don’t know/Not Sure,107,1.1,1.32,CSRVINSR
+9,Refused,36,0.37,0.49,CSRVINSR
+,Not asked or Missing,,,,CSRVINSR
+1,Yes,500,5.13,5.96,CSRVDEIN
+2,No,9171,94.16,93.06,CSRVDEIN
+7,Don’t know/Not Sure,48,0.49,0.78,CSRVDEIN
+9,Refused,21,0.22,0.2,CSRVDEIN
+,Not asked or Missing,,,,CSRVDEIN
+1,Yes,480,4.93,5.38,CSRVCLIN
+2,No,9109,93.63,93.36,CSRVCLIN
+7,Don’t know/Not Sure,120,1.23,1.07,CSRVCLIN
+9,Refused,20,0.21,0.19,CSRVCLIN
+,Not asked or Missing,,,,CSRVCLIN
+1,Yes,1544,9.03,10.44,CSRVPAIN
+2,No,15275,89.34,87.67,CSRVPAIN
+7,Don’t know/Not Sure,107,0.63,0.86,CSRVPAIN
+9,Refused,171,1,1.03,CSRVPAIN
+,Not asked or Missing,,,,CSRVPAIN
+1,With medication (or treatment),619,40.17,37.65,CSRVCTL2
+2,Without medication (or treatment),518,33.61,36.09,CSRVCTL2
+3,Not under control with medication (or treatment),135,8.76,9.41,CSRVCTL2
+4,Not under control without medication (or treatment),217,14.08,13.02,CSRVCTL2
+7,Don’t know/Not Sure,44,2.86,2.92,CSRVCTL2
+9,Refused,8,0.52,0.91,CSRVCTL2
+,Not asked or Missing,,,,CSRVCTL2
+1,Yes,3951,55.03,47.62,PSATEST1
+2,No,2680,37.33,44.41,PSATEST1
+7,Don’t know/Not Sure,504,7.02,7.27,PSATEST1
+9,Refused,45,0.63,0.7,PSATEST1
+,Not asked or Missing,,,,PSATEST1
+1,Within the past year (anytime less than 12 months ago),2453,62.16,61.97,PSATIME1
+2,Within the past 2 years (1 year but less than 2 years ago),528,13.38,13.21,PSATIME1
+3,Within the past 3 years (2 years but less than 3 years ago),249,6.31,6.13,PSATIME1
+4,Within the past 5 years (3 years but less than 5 years ago),224,5.68,5.84,PSATIME1
+5,5 or more years ago,331,8.39,8.45,PSATIME1
+7,Don’t know/Not Sure,156,3.95,4.22,PSATIME1
+9,Refused,5,0.13,0.17,PSATIME1
+,Not asked or Missing,,,,PSATIME1
+1,Part of a routine exam,3195,81.17,79.38,PCPSARS2
+2,Because of a problem,395,10.04,10.88,PCPSARS2
+3,Other reason,294,7.47,8.2,PCPSARS2
+7,Don’t know/Not Sure,45,1.14,1.15,PCPSARS2
+9,Refused,7,0.18,0.39,PCPSARS2
+,Not asked or Missing,,,,PCPSARS2
+1,Self,401,9.13,8.53,PSASUGST
+2,Doctor nurse health care professional,3279,74.62,66.94,PSASUGST
+3,Someone else,202,4.6,5.66,PSASUGST
+7,Don’t know/Not sure,269,6.12,9.38,PSASUGST
+9,Refused,243,5.53,9.5,PSASUGST
+,Not asked or Missing,,,,PSASUGST
+1,Advantages,660,9.75,7.94,PCSTALK1
+2,Disadvantages,30,0.44,0.48,PCSTALK1
+3,Both Advantages and Disadvantages,1911,28.24,24.72,PCSTALK1
+4,Neither,3056,45.15,48.46,PCSTALK1
+7,Don’t know/Not Sure,969,14.32,15.71,PCSTALK1
+9,Refused,142,2.1,2.68,PCSTALK1
+,Not asked or Missing,,,,PCSTALK1
+1,Yes,7003,10.83,10.75,CIMEMLOS
+2,No,56945,88.05,88.17,CIMEMLOS
+7,Don’t know/Not sure,474,0.73,0.67,CIMEMLOS
+9,Refused,253,0.39,0.42,CIMEMLOS
+,Not asked or Missing,,,,CIMEMLOS
+1,Always,357,4.79,4.96,CDHOUSE
+2,Usually,364,4.88,5.5,CDHOUSE
+3,Sometimes,1650,22.14,24.41,CDHOUSE
+4,Rarely,1272,17.07,19.31,CDHOUSE
+5,Never,3642,48.87,44.03,CDHOUSE
+7,Don’t know/Not sure,159,2.13,1.74,CDHOUSE
+9,Refused,9,0.12,0.07,CDHOUSE
+,Not asked or Missing,,,,CDHOUSE
+1,Always,304,4.09,4.57,CDASSIST
+2,Usually,281,3.78,4.9,CDASSIST
+3,Sometimes,1354,18.22,21,CDASSIST
+4,RarelyL,1447,19.47,19.25,CDASSIST
+5,Never,3954,53.21,49.12,CDASSIST
+7,Don’t know/Not sure,78,1.05,1.04,CDASSIST
+9,Refused,13,0.17,0.13,CDASSIST
+,Not asked or Missing,,,,CDASSIST
+1,Always,722,37.35,38.41,CDHELP
+2,Usually,418,21.62,20.58,CDHELP
+3,Sometimes,465,24.06,27.09,CDHELP
+4,Rarely,177,9.16,8.62,CDHELP
+5,Never,130,6.73,4.72,CDHELP
+7,Don’t know/Not sure,19,0.98,0.56,CDHELP
+9,Refused,2,0.1,0.02,CDHELP
+,Not asked or Missing,,,,CDHELP
+1,Always,458,6.18,6.57,CDSOCIAL
+2,Usually,410,5.53,7.92,CDSOCIAL
+3,Sometimes,1313,17.71,20.23,CDSOCIAL
+4,Rarely,1387,18.71,17.4,CDSOCIAL
+5,Never,3726,50.25,46.42,CDSOCIAL
+7,Don’t know/Not sure,106,1.43,1.24,CDSOCIAL
+9,Refused,15,0.2,0.21,CDSOCIAL
+,Not asked or Missing,,,,CDSOCIAL
+1,Yes,3432,46.38,46.46,CDDISCUS
+2,No,3862,52.19,52.1,CDDISCUS
+7,Don’t know/Not Sure,97,1.31,1.32,CDDISCUS
+9,Refused,9,0.12,0.12,CDDISCUS
+,Not asked or Missing,,,,CDDISCUS
+1,Yes,19662,19.96,19.71,CAREGIV1
+2,No,78174,79.36,79.56,CAREGIV1
+7,Don’t know/Not Sure,262,0.27,0.26,CAREGIV1
+8,Caregiving recipient died in past 30 days,177,0.18,0.18,CAREGIV1
+9,Refused,235,0.24,0.28,CAREGIV1
+,Not asked or Missing,346622,.,,CAREGIV1
+1,Mother,3986,20.3,21.33,CRGVREL4
+2,Father,1463,7.45,8.49,CRGVREL4
+3,Mother-in-law,668,3.4,3.37,CRGVREL4
+4,Father-in-law,245,1.25,1.06,CRGVREL4
+5,Child,1968,10.02,10.38,CRGVREL4
+6,Husband,2243,11.42,9.66,CRGVREL4
+7,Wife,1904,9.7,7.78,CRGVREL4
+8,Live-in partner,272,1.39,1.22,CRGVREL4
+9,Brother or brother-in-law,684,3.48,3.67,CRGVREL4
+10,Sister or sister-in-law,833,4.24,3.89,CRGVREL4
+11,Grandmother,557,2.84,5.01,CRGVREL4
+12,Grandfather,181,0.92,1.71,CRGVREL4
+13,Grandchild,214,1.09,0.83,CRGVREL4
+14,Other relative,1160,5.91,7.4,CRGVREL4
+15,Non-relative/Family friend,3002,15.29,12.89,CRGVREL4
+77,Don’t know/Not Sure,57,0.29,0.34,CRGVREL4
+99,Refused,197,1,0.97,CRGVREL4
+,Not asked or Missing,,,,CRGVREL4
+1,Less than 30 days,3023,15.44,14.57,CRGVLNG1
+2,1 month to less than 6 months,2437,12.44,12.47,CRGVLNG1
+3,6 months to less than 2 years,3496,17.85,17.4,CRGVLNG1
+4,2 years to less than 5 years,4194,21.42,21.52,CRGVLNG1
+5,5 or more years,5987,30.57,31.59,CRGVLNG1
+7,Don’t know/Not sure,322,1.64,1.77,CRGVLNG1
+9,Refused,124,0.63,0.68,CRGVLNG1
+,Not asked or Missing,,,,CRGVLNG1
+1,Up to 8 hours per week,9379,48.02,45.25,CRGVHRS1
+2,9 to 19 hours per week,2656,13.6,13.82,CRGVHRS1
+3,20 to 39 hours per week,2137,10.94,11.37,CRGVHRS1
+4,40 hours or more,3696,18.92,20.76,CRGVHRS1
+7,Don’t know/Not sure,1433,7.34,7.73,CRGVHRS1
+9,Refused,232,1.19,1.06,CRGVHRS1
+,Not asked or Missing,,,,CRGVHRS1
+1,Arthritis/ rheumatism,598,3.07,3.09,CRGVPRB3
+2,Asthma,82,0.42,0.44,CRGVPRB3
+3,Cancer,1483,7.62,7.62,CRGVPRB3
+4,Chronic respiratory conditions such as emphysema or COPD,661,3.39,3.86,CRGVPRB3
+5,Alzheimer´s disease dementia or other cognitive impairment disorder,2133,10.95,9.9,CRGVPRB3
+6,Developmental disabilities such as autism Down´s Syndrome and spina bifida,900,4.62,4.98,CRGVPRB3
+7,Diabetes,801,4.11,4.39,CRGVPRB3
+8,Heart disease hypertension stroke,1488,7.64,7.46,CRGVPRB3
+9,Human Immunodeficiency Virus Infection (H.I.V.),18,0.09,0.06,CRGVPRB3
+10,Mental illnesses such as anxiety depression or schizophrenia,837,4.3,4.88,CRGVPRB3
+11,Other organ failure or diseases such as kidney or liver problems,463,2.38,2.51,CRGVPRB3
+12,Substance abuse or addiction disorders,72,0.37,0.37,CRGVPRB3
+13,Injuries including broken bones,1154,5.93,5.65,CRGVPRB3
+14,Old age/ infirmity/frailty,2487,12.77,12.07,CRGVPRB3
+15,Other,5257,27,26.51,CRGVPRB3
+77,Don’t know/Not Sure,434,2.23,2.6,CRGVPRB3
+99,Refused,604,3.1,3.6,CRGVPRB3
+,Not asked or Missing,,,,CRGVPRB3
+1,Yes,2499,14.45,14.17,CRGVALZD
+2,No,14257,82.41,82.42,CRGVALZD
+7,Don’t know/Not Sure,384,2.22,2.42,CRGVALZD
+9,Refused,160,0.92,1,CRGVALZD
+,Not asked or Missing,,,,CRGVALZD
+1,Yes,9476,48.85,52.13,CRGVPER1
+2,No,9750,50.26,46.83,CRGVPER1
+7,Don’t know/Not Sure,56,0.29,0.31,CRGVPER1
+9,Refused,118,0.61,0.73,CRGVPER1
+,Not asked or Missing,,,,CRGVPER1
+1,Yes,15397,79.53,80.56,CRGVHOU1
+2,No,3801,19.63,18.32,CRGVHOU1
+7,Don’t know/Not Sure,44,0.23,0.32,CRGVHOU1
+9,Refused,118,0.61,0.81,CRGVHOU1
+,Not asked or Missing,,,,CRGVHOU1
+1,Yes,10258,13.06,12.73,CRGVEXPT
+2,No,62780,79.94,79.82,CRGVEXPT
+7,Don’t know/Not Sure,5214,6.64,7.08,CRGVEXPT
+9,Refused,282,0.36,0.37,CRGVEXPT
+,Not asked or Missing,,,,CRGVEXPT
+1,Yes,8800,18.22,20.22,ACEDEPRS
+2,No,38156,79.02,77.03,ACEDEPRS
+7,Don’t know/Not Sure,489,1.01,1.21,ACEDEPRS
+9,Refused,841,1.74,1.54,ACEDEPRS
+,Not asked or Missing,396846,.,,ACEDEPRS
+1,Yes,11527,23.9,23.8,ACEDRINK
+2,No,35692,74,74.41,ACEDRINK
+7,Don’t know/Not Sure,206,0.43,0.41,ACEDRINK
+9,Refused,806,1.67,1.38,ACEDRINK
+,Not asked or Missing,396901,.,,ACEDRINK
+1,Yes,4691,9.73,12.41,ACEDRUGS
+2,No,42448,88.03,85.56,ACEDRUGS
+7,Don’t know/Not Sure,307,0.64,0.75,ACEDRUGS
+9,Refused,774,1.61,1.29,ACEDRUGS
+,Not asked or Missing,396912,.,,ACEDRUGS
+1,Yes,3549,7.36,10.03,ACEPRISN
+2,No,43701,90.68,88.22,ACEPRISN
+7,Don’t know/Not Sure,178,0.37,0.46,ACEPRISN
+9,Refused,766,1.59,1.28,ACEPRISN
+,Not asked or Missing,396938,.,,ACEPRISN
+1,Yes,12107,25.13,31.74,ACEDIVRC
+2,No,34367,71.34,64.39,ACEDIVRC
+7,Don’t know/Not Sure,269,0.56,0.56,ACEDIVRC
+8,Parents not married,632,1.31,1.94,ACEDIVRC
+9,Refused,797,1.65,1.36,ACEDIVRC
+,Not asked or Missing,396960,.,,ACEDIVRC
+1,Never,38842,80.7,78.85,ACEPUNCH
+2,Once,1795,3.73,4.16,ACEPUNCH
+3,More than once,5816,12.08,13.69,ACEPUNCH
+7,Don’t know/Not Sure,672,1.4,1.46,ACEPUNCH
+9,Refused,1004,2.09,1.84,ACEPUNCH
+,Not asked or Missing,397003,.,,ACEPUNCH
+1,Never,35092,72.99,69.5,ACEHURT1
+2,Once,2939,6.11,6.75,ACEHURT1
+3,More than once,8628,17.95,20.89,ACEHURT1
+7,Don’t know/Not Sure,350,0.73,0.75,ACEHURT1
+9,Refused,1068,2.22,2.1,ACEHURT1
+,Not asked or Missing,397055,.,,ACEHURT1
+1,Never,30266,63.02,60.2,ACESWEAR
+2,Once,2393,4.98,4.92,ACESWEAR
+3,More than once,13722,28.57,31.95,ACESWEAR
+7,Don’t know/Not Sure,573,1.19,0.93,ACESWEAR
+9,Refused,1075,2.24,2,ACESWEAR
+,Not asked or Missing,397103,.,,ACESWEAR
+1,Never,40941,85.34,84.71,ACETOUCH
+2,Once,1940,4.04,4.13,ACETOUCH
+3,More than once,3677,7.66,8.36,ACETOUCH
+7,Don’t know/Not Sure,202,0.42,0.42,ACETOUCH
+9,Refused,1212,2.53,2.39,ACETOUCH
+,Not asked or Missing,397160,.,,ACETOUCH
+1,Never,42421,88.5,87.6,ACETTHEM
+2,Once,1497,3.12,3.46,ACETTHEM
+3,More than once,2626,5.48,6.33,ACETTHEM
+7,Don’t know/Not Sure,216,0.45,0.44,ACETTHEM
+9,Refused,1176,2.45,2.16,ACETTHEM
+,Not asked or Missing,397196,.,,ACETTHEM
+1,Never,44050,92.01,91.71,ACEHVSEX
+2,Once,846,1.77,2.09,ACEHVSEX
+3,More than once,1584,3.31,3.63,ACEHVSEX
+7,Don’t know/Not Sure,197,0.41,0.35,ACEHVSEX
+9,Refused,1199,2.5,2.22,ACEHVSEX
+,Not asked or Missing,397256,.,,ACEHVSEX
+1,Never,1721,3.6,4.61,ACEADSAF
+2,A little of the time,1169,2.44,2.84,ACEADSAF
+3,Some of the time,2496,5.22,6.75,ACEADSAF
+4,Most of the time,7779,16.27,17.09,ACEADSAF
+5,All of the time,33559,70.18,66.58,ACEADSAF
+7,Don’t know/Not sure,251,0.52,0.6,ACEADSAF
+9,Refused,846,1.77,1.53,ACEADSAF
+,Not asked or Missing,397311,.,,ACEADSAF
+1,Never,726,1.52,2.35,ACEADNED
+2,A little of the time,641,1.34,1.74,ACEADNED
+3,Some of the time,1388,2.91,3.68,ACEADNED
+4,Most of the time,5211,10.91,12.11,ACEADNED
+5,All of the time,38832,81.31,78.35,ACEADNED
+7,Don’t know/Not sure,163,0.34,0.36,ACEADNED
+9,Refused,796,1.67,1.41,ACEADNED
+,Not asked or Missing,397375,.,,ACEADNED
+1,Very satisfied,114252,44.89,42.07,LSATISFY
+2,Satisfied,123445,48.51,50.46,LSATISFY
+3,Dissatisfied,10758,4.23,4.67,LSATISFY
+4,Very dissatisfied,3062,1.2,1.38,LSATISFY
+7,Don’t know/Not sure,1864,0.73,0.9,LSATISFY
+9,Refused,1107,0.43,0.51,LSATISFY
+,Not asked or Missing,190644,.,,LSATISFY
+1,Always,118012,46.44,45.3,EMTSUPRT
+2,Usually,77907,30.66,28.13,EMTSUPRT
+3,Sometimes,33813,13.3,14.74,EMTSUPRT
+4,Rarely,10835,4.26,5.01,EMTSUPRT
+5,Never,9379,3.69,4.97,EMTSUPRT
+7,Don’t know/Not sure,2820,1.11,1.19,EMTSUPRT
+9,Refused,1375,0.54,0.66,EMTSUPRT
+,Not asked or Missing,190991,.,,EMTSUPRT
+1,Always,8098,3.19,4.06,SDHISOLT
+2,Usually,13178,5.19,5.63,SDHISOLT
+3,Sometimes,53072,20.91,21.62,SDHISOLT
+4,Rarely,70617,27.82,26.18,SDHISOLT
+5,Never,106160,41.83,41.21,SDHISOLT
+7,Don’t know/Not Sure,1696,0.67,0.79,SDHISOLT
+9,Refused,969,0.38,0.5,SDHISOLT
+,Not asked or Missing,191342,.,,SDHISOLT
+1,Yes,23170,9.14,12.63,SDHEMPLY
+2,No,227969,89.92,86.1,SDHEMPLY
+7,Don’t know/Not Sure,1144,0.45,0.6,SDHEMPLY
+9,Refused,1232,0.49,0.67,SDHEMPLY
+,Not asked or Missing,191617,.,,SDHEMPLY
+1,Yes,25323,10,12.28,FOODSTMP
+2,No,226638,89.5,86.88,FOODSTMP
+7,Don’t know/Not Sure,596,0.24,0.4,FOODSTMP
+9,Refused,682,0.27,0.44,FOODSTMP
+,Not asked or Missing,191893,.,,FOODSTMP
+1,Always,4824,1.91,2.55,SDHFOOD1
+2,Usually,4603,1.82,2.33,SDHFOOD1
+3,Sometimes,17258,6.83,9.26,SDHFOOD1
+4,Rarely,20768,8.21,9.91,SDHFOOD1
+5,Never,203654,80.55,74.99,SDHFOOD1
+7,Don’t know/Not Sure,879,0.35,0.5,SDHFOOD1
+9,Refused,843,0.33,0.47,SDHFOOD1
+,Not asked or Missing,192303,.,,SDHFOOD1
+1,Yes,22690,8.99,11.91,SDHBILLS
+2,No,228332,90.42,87.14,SDHBILLS
+7,Don’t know/Not Sure,658,0.26,0.44,SDHBILLS
+9,Refused,842,0.33,0.51,SDHBILLS
+,Not asked or Missing,192610,.,,SDHBILLS
+1,Yes,14942,5.92,7.29,SDHUTILS
+2,No,236141,93.6,91.96,SDHUTILS
+7,Don’t know/Not Sure,507,0.2,0.33,SDHUTILS
+9,Refused,689,0.27,0.42,SDHUTILS
+,Not asked or Missing,192853,.,,SDHUTILS
+1,Yes,16376,6.5,8.19,SDHTRNSP
+2,No,234506,93.08,91.12,SDHTRNSP
+7,Don’t know/Not Sure,440,0.17,0.3,SDHTRNSP
+9,Refused,621,0.25,0.38,SDHTRNSP
+,Not asked or Missing,193189,.,,SDHTRNSP
+1,Always,12295,4.89,6.18,SDHSTRE1
+2,Usually,17179,6.84,7.93,SDHSTRE1
+3,Sometimes,55913,22.26,24.19,SDHSTRE1
+4,Rarely,69465,27.65,24.94,SDHSTRE1
+5,Never,94681,37.69,35.95,SDHSTRE1
+7,Don’t know/Not Sure,794,0.32,0.31,SDHSTRE1
+9,Refused,884,0.35,0.51,SDHSTRE1
+,Not asked or Missing,193921,.,,SDHSTRE1
+1 - 30,Number of Days,11525,12.14,14.71,MARIJAN1
+88,None,82210,86.61,83.97,MARIJAN1
+77,Don’t know/Not Sure,496,0.52,0.52,MARIJAN1
+99,Refused,688,0.72,0.79,MARIJAN1
+,Not asked or Missing,350213,.,,MARIJAN1
+1,Yes,8906,77.38,80.17,MARJSMOK
+2,No,2582,22.43,19.7,MARJSMOK
+7,Don’t know/Not sure,10,0.09,0.05,MARJSMOK
+9,Refused,12,0.1,0.08,MARJSMOK
+,Not asked or Missing,,,,MARJSMOK
+1,Yes,4799,41.72,40.71,MARJEAT
+2,No,6681,58.08,59.08,MARJEAT
+7,Don’t know/Not sure,13,0.11,0.1,MARJEAT
+9,Refused,11,0.1,0.11,MARJEAT
+,Not asked or Missing,,,,MARJEAT
+1,Yes,2798,24.32,28.49,MARJVAPE
+2,No,8680,75.46,71.27,MARJVAPE
+7,Don’t know/Not sure,12,0.1,0.12,MARJVAPE
+9,Refused,13,0.11,0.11,MARJVAPE
+,Not asked or Missing,,,,MARJVAPE
+1,Yes,1373,11.94,14.13,MARJDAB
+2,No,10053,87.46,85.42,MARJDAB
+7,Don’t know/Not sure,50,0.43,0.33,MARJDAB
+9,Refused,19,0.17,0.11,MARJDAB
+,Not asked or Missing,,,,MARJDAB
+1,Yes,708,6.16,5.85,MARJOTHR
+2,No,10737,93.47,93.84,MARJOTHR
+7,Don’t know/Not sure,26,0.23,0.25,MARJOTHR
+9,Refused,16,0.14,0.06,MARJOTHR
+,Not asked or Missing,,,,MARJOTHR
+1,Within the past month (less than 1 month ago),1242,2.62,3.41,LASTSMK2
+2,Within the past 3 months (1 month but less than 3 months ago),879,1.85,2.35,LASTSMK2
+3,Within the past 6 months (3 months but less than 6 months ago),807,1.7,2.13,LASTSMK2
+4,Within the past year (6 months but less than 1 year ago),1382,2.92,3.95,LASTSMK2
+5,Within the past 5 years (1 year but less than 5 years ago),5760,12.15,15.44,LASTSMK2
+6,Within the past 10 years (5 years but less than 10 years ago),4494,9.48,11.32,LASTSMK2
+7,10 years or more,31978,67.45,59.48,LASTSMK2
+8,Never smoked regularly,351,0.74,0.7,LASTSMK2
+77,Don’t know/Not sure,441,0.93,0.96,LASTSMK2
+99,Refused,75,0.16,0.25,LASTSMK2
+,Not asked or Missing,,,,LASTSMK2
+1,Yes,9311,49.29,50.99,STOPSMK2
+2,No,9473,50.15,48.6,STOPSMK2
+7,Don’t know/Not Sure,83,0.44,0.34,STOPSMK2
+9,Refused,22,0.12,0.07,STOPSMK2
+,Not asked or Missing,,,,STOPSMK2
+1,Yes,1780,35.64,38.99,MENTCIGS
+2,No,3192,63.92,60.03,MENTCIGS
+7,Don’t know/Not Sure,12,0.24,0.17,MENTCIGS
+9,Refused,10,0.2,0.82,MENTCIGS
+,Not asked or Missing,,,,MENTCIGS
+1,Yes,626,28.93,29.96,MENTECIG
+2,No,1504,69.5,68.65,MENTECIG
+7,Don’t know/Not Sure,32,1.48,1.36,MENTECIG
+9,Refused,2,0.09,0.03,MENTECIG
+,Not asked or Missing,,,,MENTECIG
+1,Yes,1867,12.42,13.38,HEATTBCO
+2,No,12987,86.41,84.72,HEATTBCO
+7,Don’t know/Not Sure,86,0.57,0.51,HEATTBCO
+9,Refused,89,0.59,1.38,HEATTBCO
+1,Yes,44565,73.13,71.21,ASBIALCH
+2,No,11430,18.76,20.79,ASBIALCH
+7,Don’t know/Not Sure,4766,7.82,7.55,ASBIALCH
+9,Refused,181,0.3,0.45,ASBIALCH
+,Not asked or Missing,,,,ASBIALCH
+Notes: Section 03.04 CHECKUP1 is coded 3 4 7 8 9 or Missing,384190,.,,,ASBIALCH
+1,Yes,39018,64.13,63.35,ASBIDRNK
+2,No,16743,27.52,28.07,ASBIDRNK
+7,Don’t know/Not Sure,4865,8,7.93,ASBIDRNK
+9,Refused,214,0.35,0.65,ASBIDRNK
+,Not asked or Missing,,,,ASBIDRNK
+1,Yes,15296,25.19,26.75,ASBIBING
+2,No,33691,55.48,54.71,ASBIBING
+7,Don’t know/Not Sure,11469,18.89,17.74,ASBIBING
+9,Refused,272,0.45,0.81,ASBIBING
+,Not asked or Missing,,,,ASBIBING
+1,Yes,10537,17.73,20.27,ASBIADVC
+2,No,46083,77.52,74.6,ASBIADVC
+7,Don’t know/Not Sure,2529,4.25,4.45,ASBIADVC
+9,Refused,296,0.5,0.67,ASBIADVC
+,Not asked or Missing,,,,ASBIADVC
+1,Yes,3288,7.05,9.28,ASBIRDUC
+2,No,42656,91.5,89.04,ASBIRDUC
+7,Don’t know/Not Sure,504,1.08,1.3,ASBIRDUC
+9,Refused,172,0.37,0.38,ASBIRDUC
+,Not asked or Missing,,,,ASBIRDUC
+1,Yes,13839,34.77,25.54,FIREARM5
+2,No,23428,58.86,68.44,FIREARM5
+7,Don’t know/Not Sure,185,0.46,0.58,FIREARM5
+9,Refused,2348,5.9,5.45,FIREARM5
+,Missing,405332,.,,FIREARM5
+1,Yes,4056,29.34,29.71,GUNLOAD
+2,No,9381,67.86,66.62,GUNLOAD
+7,Don’t know/Not sure,330,2.39,3.11,GUNLOAD
+9,Refused,58,0.42,0.55,GUNLOAD
+,Not asked or Missing,,,,GUNLOAD
+1,Yes,2167,53.44,50.39,LOADULK2
+2,No,1852,45.67,48.87,LOADULK2
+7,Don’t know/Not sure,16,0.39,0.34,LOADULK2
+9,Refused,20,0.49,0.4,LOADULK2
+,Not asked or Missing,,,,LOADULK2
+1,Boy,28832,48.88,48.62,RCSGEND1
+2,Girl,26655,45.19,45.18,RCSGEND1
+3,Nonbinary/other,174,0.29,0.24,RCSGEND1
+9,Refused,3327,5.64,5.95,RCSGEND1
+,Not asked or Missing,,,,RCSGEND1
+1,Boy,376,10.86,5.54,RCSXBRTH
+2,Girl,397,11.46,9.29,RCSXBRTH
+7,,2,0.06,0.05,RCSXBRTH
+9,Refused,2688,77.62,85.12,RCSXBRTH
+,Not asked or Missing,,,,RCSXBRTH
+1,Parent (include biologic step or adoptive parent),45256,77.4,75.06,RCSRLTN2
+2,Grandparent,5072,8.67,6.38,RCSRLTN2
+3,Foster parent or guardian,800,1.37,1.16,RCSRLTN2
+4,Sibling (include biologic step and adoptive sibling),2713,4.64,8.26,RCSRLTN2
+5,Other relative,1616,2.76,3.5,RCSRLTN2
+6,Not related in any way,924,1.58,1.65,RCSRLTN2
+7,Don’t know/Not sure,67,0.11,0.12,RCSRLTN2
+9,Refused,2026,3.46,3.86,RCSRLTN2
+,Not asked or Missing,,,,RCSRLTN2
+1,Yes,5338,10.54,10.18,CASTHDX2
+2,No,42689,84.26,83.99,CASTHDX2
+7,Don’t know/Not Sure,695,1.37,1.63,CASTHDX2
+9,Refused,1939,3.83,4.2,CASTHDX2
+,Not asked or Missing,,,,CASTHDX2
+1,Yes,3455,64.85,63.3,CASTHNO2
+2,No,1755,32.94,33.96,CASTHNO2
+7,Don’t know/Not Sure,114,2.14,2.65,CASTHNO2
+9,Refused,4,0.08,0.09,CASTHNO2
+,Not asked or Missing,,,,CASTHNO2
+1,Male,37441,47.14,47.78,BIRTHSEX
+2,Female,41456,52.19,50.56,BIRTHSEX
+7,Don’t know/Not Sure,100,0.13,0.17,BIRTHSEX
+9,Refused,430,0.54,1.48,BIRTHSEX
+,Not asked or Missing,365705,.,,BIRTHSEX
+1,Gay,2939,2.37,2.42,SOMALE
+2,Straight that is not gay,112679,90.85,89.99,SOMALE
+3,Bisexual,2570,2.07,2.5,SOMALE
+4,Something else,1974,1.59,1.89,SOMALE
+7,I don´t know the answer,1057,0.85,1.21,SOMALE
+9,Refused,2813,2.27,2,SOMALE
+,Not asked or Missing,,,,SOMALE
+1,Lesbian or Gay,2318,1.66,1.85,SOFEMALE
+2,Straight that is not gay,123813,88.67,85.93,SOFEMALE
+3,Bisexual,5507,3.94,5.65,SOFEMALE
+4,Something else,2789,2,2.54,SOFEMALE
+7,I don´t know the answer,1760,1.26,1.62,SOFEMALE
+9,Refused,3443,2.47,2.41,SOFEMALE
+,Not asked or Missing,,,,SOFEMALE
+1,Yes Transgender male-to-female,499,0.19,0.24,TRNSGNDR
+2,Yes Transgender female to male,515,0.2,0.24,TRNSGNDR
+3,Yes Transgender gender nonconforming,589,0.22,0.31,TRNSGNDR
+4,No,258106,97.93,97.8,TRNSGNDR
+7,Don’t know/Not Sure,811,0.31,0.42,TRNSGNDR
+9,Refused,3041,1.15,1,TRNSGNDR
+,Not asked or Missing,181571,.,,TRNSGNDR
+1,Yes,14744,74.18,70.36,HADSEX
+2,No,4231,21.29,24.19,HADSEX
+7,Don’t know/Not Sure,66,0.33,0.39,HADSEX
+9,Refused,835,4.2,5.06,HADSEX
+,Not asked or Missing,,,,HADSEX
+1,Yes,11401,77.66,77.45,PFPPRVN4
+2,No,3168,21.58,21.74,PFPPRVN4
+7,Don’t know/Not Sure,28,0.19,0.16,PFPPRVN4
+9,Refused,84,0.57,0.64,PFPPRVN4
+,Not asked or Missing,,,,PFPPRVN4
+1,Female sterilization (Tubal ligation Essure or Adiana),1468,12.91,11.19,TYPCNTR9
+2,Male sterilization (vasectomy),1525,13.41,9.83,TYPCNTR9
+3,Contraceptive implant,356,3.13,3.82,TYPCNTR9
+4,Intrauterine device or IUD (Mirena Levonorgestrel ParaGard),2049,18.02,16.04,TYPCNTR9
+5,Shots (Depo-Provera),196,1.72,2.1,TYPCNTR9
+6,Birth control pills Contraceptive Ring (NuvaRing) Contraceptive patch (Ortho Evra),2259,19.87,20.1,TYPCNTR9
+7,Condoms (male or female),1923,16.91,21.12,TYPCNTR9
+8,Diaphragm cervical cap sponge foam jelly film or cream,29,0.26,0.16,TYPCNTR9
+9,Had sex at a time when less likely to get pregnant (rhythm or natural family planning),179,1.57,1.45,TYPCNTR9
+10,Withdrawal or pulling out,656,5.77,6.31,TYPCNTR9
+11,Emergency contraception or the morning after pill (Plan B or ella),26,0.23,0.28,TYPCNTR9
+12,Other method,343,3.02,3.76,TYPCNTR9
+77,Don’t know/Not sure,109,0.96,1.13,TYPCNTR9
+99,Refused,252,2.22,2.7,TYPCNTR9
+,Not asked or Missing,,,,TYPCNTR9
+0,Nothing else,6820,60.14,54.48,BRTHCNT4
+1,Female sterilization (Tubal ligation Essure or Adiana),273,2.41,2.53,BRTHCNT4
+2,Male sterilization (vasectomy),406,3.58,3.38,BRTHCNT4
+3,Contraceptive implant,92,0.81,1.51,BRTHCNT4
+4,Intrauterine device or IUD (Mirena Levonorgestrel ParaGard),501,4.42,4.36,BRTHCNT4
+5,Shots (Depo-Provera),54,0.48,0.59,BRTHCNT4
+6,Birth control pills Contraceptive Ring (NuvaRing) Contraceptive patch (Ortho Evra),679,5.99,7.13,BRTHCNT4
+7,Condoms (male or female),1083,9.55,11.46,BRTHCNT4
+8,Diaphragm cervical cap sponge foam jelly film or cream,10,0.09,0.11,BRTHCNT4
+9,Had sex at a time when less likely to get pregnant (rhythm or natural family planning),127,1.12,1.02,BRTHCNT4
+10,Withdrawal or pulling out,523,4.61,5.19,BRTHCNT4
+11,Emergency contraception or the morning after pill (Plan B or ella),47,0.41,0.65,BRTHCNT4
+12,Other method,241,2.13,3.02,BRTHCNT4
+77,Don’t know/Not sure,150,1.32,1.41,BRTHCNT4
+99,Refused,335,2.95,3.16,BRTHCNT4
+,Not asked or Missing,,,,BRTHCNT4
+1,Private doctor´s office,4860,49.72,46.52,WHEREGET
+2,Community health clinic Community clinic Public health clinic,472,4.83,5.82,WHEREGET
+3,Family planning or Planned Parenthood Clinic,372,3.81,4.43,WHEREGET
+4,School or school-based clinic,39,0.4,0.42,WHEREGET
+5,Hospital outpatient clinic emergency room regular hospital room,1386,14.18,12.08,WHEREGET
+6,Urgent care center urgi-care or walk-in facility,11,0.11,0.08,WHEREGET
+7,In- store health clinic (like CVS Target or Walmart),1464,14.98,18.43,WHEREGET
+8,Health care visit with a pharmacist,133,1.36,1.26,WHEREGET
+9,Website or app,153,1.57,1.82,WHEREGET
+10,Some other place,404,4.13,4.82,WHEREGET
+77,Don’t know/Not sure,353,3.61,3.23,WHEREGET
+99,Refused,127,1.3,1.1,WHEREGET
+1,You didn´t think you were going to have sex/no regular partner,71,2.25,2.18,NOBCUSE8
+2,You just didn´t think about it,193,6.1,7.41,NOBCUSE8
+3,You wanted a pregnancy,756,23.91,26.4,NOBCUSE8
+4,You didn´t care if you got pregnant,210,6.64,5.31,NOBCUSE8
+5,You or your partner didn´t want to use birth control (side effects don´t like birth control),51,1.61,1.77,NOBCUSE8
+6,You had trouble getting or paying for birth control,15,0.47,0.37,NOBCUSE8
+7,You didn´t trust giving out your personal information to medical personnel,2,0.06,0.24,NOBCUSE8
+8,Didn´t think you or your partner could get pregnant (infertile or too old),440,13.92,13.24,NOBCUSE8
+9,"You were using withdrawal or ""pulling out""",33,1.04,1.14,NOBCUSE8
+10,You had your tubes tied (sterilization),492,15.56,14.17,NOBCUSE8
+11,Your partner had a vasectomy (sterilization),104,3.29,2.39,NOBCUSE8
+12,You were breast-feeding or you just had a baby,17,0.54,0.37,NOBCUSE8
+13,You were assigned male at birth,2,0.06,0.01,NOBCUSE8
+14,Other reasons,575,18.18,18.98,NOBCUSE8
+77,Don’t know/Not sure,113,3.57,3.29,NOBCUSE8
+99,Refused,88,2.78,2.71,NOBCUSE8
+,Not asked or Missing,,,,NOBCUSE8
+1,Female sterilization (Tubal ligation Essure or Adiana),1227,8.45,7.86,BCPREFER
+2,Male sterilization (vasectomy),1520,10.46,8.73,BCPREFER
+3,Contraceptive implant,438,3.02,3.77,BCPREFER
+4,Intrauterine device or IUD (Mirena Levonorgestrel ParaGard),2431,16.73,15.88,BCPREFER
+5,Shots (Depo-Provera),544,3.74,4.74,BCPREFER
+6,Birth control pills Contraceptive Ring (NuvaRing) Contraceptive patch (Ortho Evra),2761,19.01,19.91,BCPREFER
+7,Condoms (male or female),1252,8.62,9.65,BCPREFER
+8,Diaphragm cervical cap sponge foam jelly film or cream,36,0.25,0.2,BCPREFER
+9,Having sex at a time when less likely to get pregnant (rhythm or natural family planning),152,1.05,1.04,BCPREFER
+10,Withdrawal or pulling out,173,1.19,1.56,BCPREFER
+11,Emergency contraception or the morning after pill (Plan B or ella),25,0.17,0.19,BCPREFER
+12,Other method,421,2.9,3.07,BCPREFER
+13,I am using the method that I want to use,1385,9.53,8.24,BCPREFER
+14,I don´t want to use any method,1187,8.17,8.42,BCPREFER
+77,Don’t know/Not sure,587,4.04,4.11,BCPREFER
+99,Refused,388,2.67,2.62,BCPREFER
+,Not asked or Missing,,,,BCPREFER
+1,White,127773,79,62.76,RRCLASS3
+2,Black or African American,15108,9.34,12.84,RRCLASS3
+3,Hispanic or Latino,7344,4.54,11.29,RRCLASS3
+4,Asian,2746,1.7,5.78,RRCLASS3
+5,Native Hawaiian or Other Pacific Islander,215,0.13,0.31,RRCLASS3
+6,American Indian or Alaska Native,1653,1.02,0.9,RRCLASS3
+7,Mixed Race,866,0.54,1.07,RRCLASS3
+8,Some other group,1669,1.03,1.61,RRCLASS3
+77,Don’t know/Not sure,1986,1.23,1.64,RRCLASS3
+99,Refused,2378,1.47,1.79,RRCLASS3
+,Not asked or Missing,283394,.,,RRCLASS3
+1,Never,89779,55.64,50.35,RRCOGNT2
+2,Once a year,13292,8.24,8.13,RRCOGNT2
+3,Once a month,17416,10.79,11.18,RRCOGNT2
+4,Once a week,14459,8.96,9.03,RRCOGNT2
+5,Once a day,10607,6.57,7.27,RRCOGNT2
+6,Once an hour,555,0.34,0.41,RRCOGNT2
+7,Don’t know/Not sure,4790,2.97,3.49,RRCOGNT2
+8,Constantly,8512,5.28,8.61,RRCOGNT2
+9,Refused,1934,1.2,1.53,RRCOGNT2
+,Not asked or Missing,283788,.,,RRCOGNT2
+1,Worse than other races,9649,5.99,8.28,RRTREAT
+2,The same as other races,97773,60.74,61.68,RRTREAT
+3,Better than other races,35375,21.98,18.3,RRTREAT
+4,Worse than some races better than others,1470,0.91,1.37,RRTREAT
+5,Only encountered people of the same race,864,0.54,0.36,RRTREAT
+7,Don’t know/Not Sure,11575,7.19,7.17,RRTREAT
+9,Refused,4259,2.65,2.83,RRTREAT
+,Not asked or Missing,284167,.,,RRTREAT
+1,Worse than other races,3676,4.43,6.09,RRATWRK2
+2,The same as other races,67242,80.98,80.35,RRATWRK2
+3,Better than other races,5548,6.68,6.14,RRATWRK2
+4,Worse than some races better than others,385,0.46,0.76,RRATWRK2
+5,Only encountered people of the same race,1228,1.48,0.84,RRATWRK2
+7,Don’t know/Not sure,3119,3.76,3.56,RRATWRK2
+9,Refused,1839,2.21,2.26,RRATWRK2
+,Not asked or Missing,,,,RRATWRK2
+1,Worse than other races,3899,2.43,3.54,RRHCARE4
+2,The same as other races,109321,68.11,70.75,RRHCARE4
+3,Better than other races,24846,15.48,12.84,RRHCARE4
+4,Worse than some races better than others,499,0.31,0.43,RRHCARE4
+5,Only encountered people of the same race,700,0.44,0.27,RRHCARE4
+6,,673,0.42,0.63,RRHCARE4
+7,Don’t know/Not sure,16738,10.43,9.12,RRHCARE4
+9,Refused,3832,2.39,2.42,RRHCARE4
+,Not asked or Missing,284624,.,,RRHCARE4
+1,Yes,4840,3.02,4.53,RRPHYSM2
+2,No,152591,95.26,93.19,RRPHYSM2
+7,Don’t know/Not Sure,980,0.61,0.88,RRPHYSM2
+9,Refused,1779,1.11,1.39,RRPHYSM2
+,Not asked or Missing,284942,.,,RRPHYSM2
+10,Landline single questionnaire,60413,13.57,7.64,QSTVER
+11,Landline multiple questionnaire version 1,16065,3.61,2.06,QSTVER
+12,Landline multiple questionnaire version 2,14921,3.35,1.99,QSTVER
+13,Landline multiple questionnaire version 3,4652,1.05,0.92,QSTVER
+20,Cell Phone single questionnaire,217614,48.89,54.18,QSTVER
+21,Cell Phone multiple questionnaire version 1,60049,13.49,15.12,QSTVER
+22,Cell Phone multiple questionnaire version 2,55903,12.56,14.06,QSTVER
+23,Cell Phone multiple questionnaire version 3,15515,3.49,4.02,QSTVER
+1,English,427474,96.03,93.14,QSTLANG
+2,Spanish,17658,3.97,6.86,QSTLANG
+1,Metropolitan counties (_URBNRRL = 1234),318082,73,85.32,X_METSTAT
+2,Nonmetropolitan counties (_URBNRRL = 56),117642,27,14.68,X_METSTAT
+,Not defined or Missing,9408,.,,X_METSTAT
+1,Urban counties (_URBNRRL = 12345),380732,87.38,93.76,X_URBSTAT
+2,Rural counties (_URBNRRL = 6),54992,12.62,6.24,X_URBSTAT
+,Not defined or Missing,9408,.,,X_URBSTAT
+1,In the center city of an MSA,29393,31.31,33.34,MSCODE
+2,Outside the center city of an MSA but inside the county containing the center city,16030,17.07,24.15,MSCODE
+3,Inside a suburban county of the MSA,16068,17.11,20.74,MSCODE
+5,Not in an MSA,32395,34.5,21.78,MSCODE
+,GU PR VI or cell phone,351246,.,,MSCODE
+1,White Non-Hispanic,333514,74.92,59.2,X_IMPRACE
+2,Black Non-Hispanic,35876,8.06,11.62,X_IMPRACE
+3,Asian Non-Hispanic,13487,3.03,6.11,X_IMPRACE
+4,American Indian/Alaskan Native Non-Hispanic,7120,1.6,1.21,X_IMPRACE
+5,Hispanic,42977,9.65,18.25,X_IMPRACE
+6,Other race Non-Hispanic,12158,2.73,3.6,X_IMPRACE
+1,Child of Hispanic Latino/a or Spanish origin,10549,3.25,5.89,X_CHISPNC
+2,Child not of Hispanic Latino/a or Spanish origin,46997,14.49,14.67,X_CHISPNC
+9,Don’t know/Not Sure/Refused/Missing,266763,82.26,79.44,X_CHISPNC
+,Not asked or Missing,120823,.,,X_CHISPNC
+1,White only,41818,68.73,62.6,X_CRACE2
+2,Black or African American only,5933,9.75,13.56,X_CRACE2
+3,American Indian or Alaskan Native only,1653,2.72,2,X_CRACE2
+4,Asian Only,2381,3.91,6.21,X_CRACE2
+5,Native Hawaiian or other Pacific Islander only,518,0.85,0.69,X_CRACE2
+6,Multiracial,3464,5.69,5.15,X_CRACE2
+88,No race choice given,859,1.41,1.55,X_CRACE2
+77,Don’t know/Not sure,933,1.53,2.51,X_CRACE2
+99,Refused,3287,5.4,5.73,X_CRACE2
+,Missing,384286,.,,X_CRACE2
+1,White,42913,71.53,65.05,X_CPRACE2
+2,Black or African American,6560,10.94,15.08,X_CPRACE2
+3,American Indian or Alaskan Native,1798,3,2.24,X_CPRACE2
+4,Asian,2815,4.69,6.9,X_CPRACE2
+5,Native Hawaiian or other Pacific Islander,818,1.36,0.87,X_CPRACE2
+6,Multiracial but preferred race not answered,4,0.01,0,X_CPRACE2
+7,Multiracial but no preferred race,12,0.02,0.03,X_CPRACE2
+77,Don’t know/Not sure,1543,2.57,3.57,X_CPRACE2
+99,Refused,3527,5.88,6.25,X_CPRACE2
+,Missing,385142,.,,X_CPRACE2
+1,0 months to < 5 years of age,11371,22.66,24.7,CAGEG
+2,5 to < 10 years of age,11901,23.72,23.43,CAGEG
+3,10 to < 15 years of age,14610,29.12,29.05,CAGEG
+4,15 to < 18 years of age,12294,24.5,22.82,CAGEG
+,Not asked or Missing,394956,.,,CAGEG
+1,Landline frame with a cell phone,82429,18.52,9.02,X_DUALUSE
+2,Cell phone frame with a landline,75600,16.98,26.35,X_DUALUSE
+9,No Dual Phone Use,287103,64.5,64.63,X_DUALUSE
+1,Good or Better Health,363920,81.76,81.72,X_RFHLTH
+2,Fair or Poor Health,80014,17.98,17.98,X_RFHLTH
+9,Don’t know/Not Sure Or Refused/Missing,1198,0.27,0.3,X_RFHLTH
+1,Zero days when physical health not good,267819,60.17,60.54,X_PHYS14D
+2,1-13 days when physical health not good,108312,24.33,24.38,X_PHYS14D
+3,14+ days when physical health not good,58074,13.05,12.36,X_PHYS14D
+9,Don’t know/Refused/Missing,10927,2.45,2.71,X_PHYS14D
+1,Zero days when mental health not good,265229,59.58,56.1,X_MENT14D
+2,1-13 days when mental health not good,110616,24.85,26.11,X_MENT14D
+3,14+ days when mental health not good,60220,13.53,15.37,X_MENT14D
+9,Don’t know/Refused/Missing,9067,2.04,2.41,X_MENT14D
+1,Have some form of insurance,404229,90.81,86.77,X_HLTHPLN
+2,Do not have some form of health insurance,23018,5.17,8.07,X_HLTHPLN
+9,Don´t know refused or missing insurance response,17885,4.02,5.16,X_HLTHPLN
+1,Have some form of health insurance,244591,54.95,63.73,X_HCVU652
+2,Do not have any form of health insurance,21602,4.85,7.75,X_HCVU652
+9,Don’t know/Not Sure Refused or Missing,178939,40.2,28.52,X_HCVU652
+1,Had physical activity or exercise,337559,75.83,75.85,X_TOTINDA
+2,No physical activity or exercise in last 30 days,106480,23.92,23.85,X_TOTINDA
+9,Don’t know/Refused/Missing,1093,0.25,0.29,X_TOTINDA
+1,Not at risk,233455,52.45,56.81,X_EXTETH3
+2,At risk,200317,45,40.71,X_EXTETH3
+9,Don’t know/Not Sure Or Refused/Missing,11360,2.55,2.48,X_EXTETH3
+1,No,136179,80.86,76.53,X_ALTETH3
+2,Yes,16726,9.93,10.58,X_ALTETH3
+9,Don’t know/Not Sure Or Refused/Missing,15514,9.21,12.89,X_ALTETH3
+,Missing or Age < 65,,,,X_ALTETH3
+1,Yes,292408,65.69,62.66,X_DENVST3
+2,No,145703,32.73,35.42,X_DENVST3
+9,Don’t know/Not Sure Or Refused/Missing,7017,1.58,1.93,X_DENVST3
+,Missing,4,.,,X_DENVST3
+1,Reported having MI or CHD,39751,9.03,6.9,X_MICHD
+2,Did not report having MI or CHD,400360,90.97,93.1,X_MICHD
+,Not asked or Missing,5021,.,,X_MICHD
+1,No,376665,84.62,84.34,X_LTASTH1
+2,Yes,66694,14.98,15.17,X_LTASTH1
+9,Don’t know/Not Sure Or Refused/Missing,1773,0.4,0.49,X_LTASTH1
+1,No,395613,88.88,89.14,X_CASTHM1
+2,Yes,45659,10.26,9.82,X_CASTHM1
+9,Don’t know/Not Sure Or Refused/Missing,3860,0.87,1.04,X_CASTHM1
+1,Current,45659,10.26,9.82,X_ASTHMS1
+2,Former,18948,4.26,4.8,X_ASTHMS1
+3,Never,376665,84.62,84.34,X_ASTHMS1
+9,Don’t know/Not Sure Or Refused/Missing,3860,0.87,1.04,X_ASTHMS1
+1,Diagnosed with arthritis,151148,34.16,26.64,X_DRDXAR2
+2,Not diagnosed with arthritis,291351,65.84,73.36,X_DRDXAR2
+,Don´t know/Not Sure/Refused/Missing,2633,.,,X_DRDXAR2
+1,White,351032,78.86,68.46,X_PRACE2
+2,Black or African American,41522,9.33,13.76,X_PRACE2
+3,American Indian or Alaskan Native,10147,2.28,2.4,X_PRACE2
+4,Asian,14836,3.33,6.54,X_PRACE2
+5,Native Hawaiian or other Pacific Islander,4070,0.91,0.83,X_PRACE2
+7,Multiracial but no preferred race,1664,0.37,0.61,X_PRACE2
+88,No race choice given,8474,1.9,3.74,X_PRACE2
+77,Don’t know/Not sure,4781,1.07,1.78,X_PRACE2
+99,Refused,8593,1.93,1.88,X_PRACE2
+,Missing,13,.,,X_PRACE2
+1,White only,346771,77.9,67.12,X_MRACE2
+2,Black or African American only,39984,8.98,13.05,X_MRACE2
+3,American Indian or Alaskan Native only,9051,2.03,2.07,X_MRACE2
+4,Asian Only,13838,3.11,6.26,X_MRACE2
+5,Native Hawaiian or other Pacific Islander only,3039,0.68,0.72,X_MRACE2
+6,Multiracial,10590,2.38,3.38,X_MRACE2
+88,No race choice given,8474,1.9,3.74,X_MRACE2
+77,Don’t know/Not sure,4781,1.07,1.78,X_MRACE2
+99,Refused,8593,1.93,1.88,X_MRACE2
+,Missing,11,.,,X_MRACE2
+1,Hispanic Latino/a or Spanish origin,42917,9.64,18.18,X_HISPANC
+2,Not of Hispanic Latino/a or Spanish origin,396631,89.1,80.45,X_HISPANC
+9,Don´t Know Refused or Missing,5584,1.25,1.37,X_HISPANC
+1,White only non-Hispanic,320421,71.98,56.43,X_RACE1
+2,Black only non-Hispanic,35446,7.96,11.49,X_RACE1
+3,American Indian or Alaskan Native only Non-Hispanic,6952,1.56,1.16,X_RACE1
+4,Asian only non-Hispanic,13347,3,6.05,X_RACE1
+5,Native Hawaiian or other Pacific Islander only Non-Hispanic,2414,0.54,0.48,X_RACE1
+7,Multiracial non-Hispanic,9578,2.15,3.07,X_RACE1
+8,Hispanic,42917,9.64,18.18,X_RACE1
+9,Don’t know/Not sure/Refused,14055,3.16,3.15,X_RACE1
+,Missing,2,.,,X_RACE1
+1,Non-Hispanic White,320421,71.98,56.43,X_RACEG22
+2,Non-White or Hispanic,110654,24.86,40.43,X_RACEG22
+9,Don’t know/Not sure/Refused,14055,3.16,3.15,X_RACEG22
+,Missing,2,.,,X_RACEG22
+1,White only Non-Hispanic,320421,71.98,56.43,X_RACEGR4
+2,Black only Non-Hispanic,35446,7.96,11.49,X_RACEGR4
+3,Other race only Non-Hispanic,22713,5.1,7.69,X_RACEGR4
+4,Multiracial Non-Hispanic,9578,2.15,3.07,X_RACEGR4
+5,Hispanic,42917,9.64,18.18,X_RACEGR4
+9,Don’t know/Not sure/Refused,14055,3.16,3.15,X_RACEGR4
+,Missing,2,.,,X_RACEGR4
+1,White only non-Hispanic,333514,74.92,59.2,X_RACEPR1
+2,Black only non-Hispanic,35876,8.06,11.62,X_RACEPR1
+3,American Indian or Alaskan Native only Non-Hispanic,7120,1.6,1.21,X_RACEPR1
+4,Asian only non-Hispanic,13487,3.03,6.11,X_RACEPR1
+5,Native Hawaiian or other Pacific Islander only Non-Hispanic,2414,0.54,0.48,X_RACEPR1
+6,Multiracial non-Hispanic,9744,2.19,3.12,X_RACEPR1
+7,Hispanic,42977,9.65,18.25,X_RACEPR1
+1,Male,209238,47.01,48.71,X_SEX
+2,Female,235894,52.99,51.29,X_SEX
+1,Age 18 to 24,26941,6.05,11.9,X_AGEG5YR
+2,Age 25 to 29,21990,4.94,7.72,X_AGEG5YR
+3,Age 30 to 34,25807,5.8,9.38,X_AGEG5YR
+4,Age 35 to 39,28526,6.41,7.63,X_AGEG5YR
+5,Age 40 to 44,29942,6.73,8.41,X_AGEG5YR
+6,Age 45 to 49,28531,6.41,6.49,X_AGEG5YR
+7,Age 50 to 54,33644,7.56,7.72,X_AGEG5YR
+8,Age 55 to 59,36821,8.27,7.31,X_AGEG5YR
+9,Age 60 to 64,44511,10,8.67,X_AGEG5YR
+10,Age 65 to 69,47099,10.58,6.98,X_AGEG5YR
+11,Age 70 to 74,43472,9.77,6.32,X_AGEG5YR
+12,Age 75 to 79,32518,7.31,4.37,X_AGEG5YR
+13,Age 80 or older,36251,8.14,4.94,X_AGEG5YR
+14,Don’t know/Refused/Missing,9079,2.04,2.15,X_AGEG5YR
+1,Age 18 to 64,276713,62.16,75.24,X_AGE65YR
+2,Age 65 or older,159340,35.8,22.61,X_AGE65YR
+3,Don’t know/Refused/Missing,9079,2.04,2.15,X_AGE65YR
+18 - 24,Imputed Age 18 to 24,26943,6.05,11.9,X_AGE80
+25 - 29,Imputed Age 25 to 29,22000,4.94,7.73,X_AGE80
+30 - 34,Imputed Age 30 to 34,25840,5.81,9.41,X_AGE80
+35 - 39,Imputed Age 35 to 39,28771,6.46,7.79,X_AGE80
+40 - 44,Imputed Age 40 to 44,30403,6.83,8.68,X_AGE80
+45 - 49,Imputed Age 45 to 49,29580,6.65,6.86,X_AGE80
+50 - 54,Imputed Age 50 to 54,37404,8.4,8.54,X_AGE80
+55 - 59,Imputed Age 55 to 59,38059,8.55,7.44,X_AGE80
+60 - 64,Imputed Age 60 to 64,44681,10.04,8.71,X_AGE80
+65 - 69,Imputed Age 65 to 69,47642,10.7,7.07,X_AGE80
+70 - 74,Imputed Age 70 to 74,44940,10.1,6.53,X_AGE80
+75 - 79,Imputed Age 75 to 79,32616,7.33,4.4,X_AGE80
+80 - 99,Imputed Age 80 or older,36253,8.14,4.94,X_AGE80
+1,Age 18 to 24,26943,6.05,11.9,X_AGE_G
+2,Age 25 to 34,47840,10.75,17.14,X_AGE_G
+3,Age 35 to 44,59174,13.29,16.46,X_AGE_G
+4,Age 45 to 54,66984,15.05,15.4,X_AGE_G
+5,Age 55 to 64,82740,18.59,16.15,X_AGE_G
+6,Age 65 or older,161451,36.27,22.95,X_AGE_G
+36 - 95,Height in inches,412656,100,100,HTIN4
+,Don’t know/Refused/Not asked or Missing,32476,.,,HTIN4
+91 - 244,Height in meters [2 implied decimal places],416480,100,100,HTM4
+,Don’t know/Refused/Not asked or Missing,28652,,,HTM4
+2300 - 29500,Weight in kilograms [2 implied decimal places],403054,100,100,WTKG3
+,Don’t know/Refused/Not asked or Missing,42078,.,,WTKG3
+1 - 9999,1 or greater,396326,100,100,X_BMI5
+,Don’t know/Refused/Missing,48806,.,,X_BMI5
+1,Underweight,6778,1.71,2.03,X_BMI5CAT
+2,Normal Weight,116976,29.52,30.5,X_BMI5CAT
+3,Overweight,139995,35.32,34.14,X_BMI5CAT
+4,Obese,132577,33.45,33.32,X_BMI5CAT
+,Don’t know/Refused/Missing,48806,,,X_BMI5CAT
+1,No,123754,27.8,28.27,X_RFBMI5
+2,Yes,272572,61.23,58.63,X_RFBMI5
+9,Don’t know/Refused/Missing,48806,10.96,13.09,X_RFBMI5
+1,No children in household,321907,72.32,64.1,X_CHLDCNT
+2,One child in household,46241,10.39,13.23,X_CHLDCNT
+3,Two children in household,37923,8.52,10.83,X_CHLDCNT
+4,Three children in household,15975,3.59,4.78,X_CHLDCNT
+5,Four children in household,5521,1.24,1.66,X_CHLDCNT
+6,Five or more children in household,3100,0.7,0.97,X_CHLDCNT
+9,Don’t know/Not sure/Missing,14464,3.25,4.43,X_CHLDCNT
+,,1,.,.,X_CHLDCNT
+1,Did not graduate High School,26011,5.84,11.63,X_EDUCAG
+2,Graduated High School,108990,24.48,27.39,X_EDUCAG
+3,Attended College or Technical School,120252,27.01,30.04,X_EDUCAG
+4,Graduated from College or Technical School,187496,42.12,30.34,X_EDUCAG
+9,Don’t know/Not sure/Missing,2383,0.54,0.6,X_EDUCAG
+1,Less than $15000,21372,4.8,5.17,X_INCOMG1
+2,$15000 to < $25000,34643,7.78,7.83,X_INCOMG1
+3,$25000 to < $35000,42294,9.5,9.54,X_INCOMG1
+4,$35000 to < $50000,46831,10.52,9.81,X_INCOMG1
+5,$50000 to < $100000,107584,24.17,21.96,X_INCOMG1
+6,$100000 to < $200000,72883,16.37,15.95,X_INCOMG1
+7,$200000 or more,23478,5.27,5.89,X_INCOMG1
+9,Don’t know/Not sure/Missing,96047,21.58,23.84,X_INCOMG1
+1,Yes,119317,65.83,63.39,X_RFMAM22
+2,No,48196,26.59,27.36,X_RFMAM22
+9,Don’t know/Not Sure/Refused,13727,7.57,9.25,X_RFMAM22
+,Missing or Age < 40 or Male,263892,.,,X_RFMAM22
+1,Received a mammogram within the past 2 years.,79719,77.64,76.79,X_MAM5023
+2,Did not receive a mammogram within the past 2 years.,22957,22.36,23.21,X_MAM5023
+,Missing Age < 50 or > 74 or Male,342456,.,,X_MAM5023
+1,Have had a colonoscopy,207648,72.77,68.06,X_HADCOLN
+2,Have not had a colonoscopy,77681,27.23,31.94,X_HADCOLN
+,Don’t know/Refused/Missing,159803,.,,X_HADCOLN
+1,Had a colonoscopy in the past ten years,144417,65.07,61.01,X_CLNSCP1
+2,Had a colonoscopy ten or more years ago,12271,5.53,4.9,X_CLNSCP1
+3,Have never had a colonoscopy,65264,29.4,34.09,X_CLNSCP1
+,Missing Age < 45 Age > 75,223180,.,,X_CLNSCP1
+1,Have had a sigmoidoscopy,31561,11.06,10.61,X_HADSIGM
+2,Have not had a sigmoidoscopy,253768,88.94,89.39,X_HADSIGM
+,Don’t know/Refused/Missing,159803,.,,X_HADSIGM
+1,Have had a sigmoidoscopy in the past 5 years,9848,4.43,4.85,X_SGMSCP1
+2,Have had a sigmoidoscopy 5 or more years ago,8981,4.04,3.54,X_SGMSCP1
+3,Have never had a sigmoidoscopy,203384,91.53,91.61,X_SGMSCP1
+,Missing Age < 45 Age > 75,222919,.,,X_SGMSCP1
+1,Have had a sigmoidoscopy in the past 10 years,12648,5.69,6.08,X_SGMS101
+2,Have had a sigmoidoscopy 10 or more years ago,6181,2.78,2.3,X_SGMS101
+3,Have never had a sigmoidoscopy,203384,91.53,91.61,X_SGMS101
+,Missing Age < 45 Age > 75,222919,.,,X_SGMS101
+1,Had a blood stool test in the past year,15497,33.4,35.39,X_RFBLDS5
+2,Have had a blood stool test one or more years ago,21725,46.82,44.95,X_RFBLDS5
+3,Have never had a blood stool test,9179,19.78,19.66,X_RFBLDS5
+,Missing Age < 45 Age > 75,398731,.,,X_RFBLDS5
+1,Had a stool DNA test in the past 3 years,6996,15.21,16.56,X_STOLDN1
+2,Have had a stool DNA test 3 or more years ago,1671,3.63,3.65,X_STOLDN1
+3,Have never had a stool DNA test,37318,81.15,79.78,X_STOLDN1
+,Missing Age < 45 Age > 75,399147,.,,X_STOLDN1
+1,Had a virtual colonoscopy in the past 5 years,5264,11.5,13.65,X_VIRCOL1
+2,Have not had a virtual colonoscopy in the past 5 or more years,748,1.63,1.64,X_VIRCOL1
+3,Have never had a virtual colonoscopy,39780,86.87,84.71,X_VIRCOL1
+,Missing Age < 45 Age > 75,399340,.,,X_VIRCOL1
+1,Both on time,1079,0.44,0.55,X_SBONTI1
+2,At least one not on time,234105,96.36,96.37,X_SBONTI1
+3,Never had either,7755,3.19,3.08,X_SBONTI1
+,Missing Age < 45 Age > 75,202193,.,,X_SBONTI1
+1,Had at least one of the recommended CRC tests within the recommended time interval,155495,64.01,59.41,X_CRCREC2
+2,Did not have any of the recommended CRC tests within the recommended time interval,85997,35.4,39.91,X_CRCREC2
+3,Have never had any of the recommended CRC tests,1447,0.6,0.68,X_CRCREC2
+,Missing Age < 45 Age > 75,202193,.,,X_CRCREC2
+1,Current smoker - now smokes every day,36003,8.09,8.09,X_SMOKER3
+2,Current smoker - now smokes some days,13938,3.13,3.54,X_SMOKER3
+3,Former smoker,113774,25.56,21.87,X_SMOKER3
+4,Never smoked,245955,55.25,57.07,X_SMOKER3
+9,Don’t know/Refused/Missing,35462,7.97,9.44,X_SMOKER3
+1,No,359729,80.81,78.93,X_RFSMOK3
+2,Yes,49941,11.22,11.62,X_RFSMOK3
+9,Don’t know/Refused/Missing,35462,7.97,9.44,X_RFSMOK3
+1,Not currently using E-cigarettes,387356,87.02,83.59,X_CURECI2
+2,Current E-cigarette user,22116,4.97,6.76,X_CURECI2
+9,Don’t know/Refused/Missing,35660,8.01,9.64,X_CURECI2
+1 - 100,Years smoked cigarettes,147604,100,100,X_YRSSMOK
+,Don’t know/Refused/Missing,297528,.,,X_YRSSMOK
+0 - 100,Number of packs of cigarettes smoked per day,150247,100,100,X_PACKDAY
+,Don’t know/Refused/Missing,294885,.,,X_PACKDAY
+0 - 999,Number of years smoked reported packs per day,142865,100,100,X_PACKYRS
+,Don’t know/Refused/Missing,302267,.,,X_PACKYRS
+1 - 100,Number of years since smoked cigarettes,106330,100,100,X_YRSQUIT
+,Don’t know/Refused/Missing,338802,.,,X_YRSQUIT
+1,Current smoker 20+ Pack Years,22620,5.52,4.82,X_SMOKGRP
+2,Former smoker 20+ Pack Years quit < 15 years,13825,3.37,2.85,X_SMOKGRP
+3,All other current and former smokers,127270,31.07,29.31,X_SMOKGRP
+4,Never smoker,245955,60.04,63.02,X_SMOKGRP
+,Don’t know/Refused/Missing,35462,.,,X_SMOKGRP
+1,Meet USPSTF recommendation: did have CAT/CT chest scan in last year,4943,9.61,9.35,X_LCSREC
+2,Does not meet USPSTF recommendation: did not have CAT/CT chest scan in last year,46510,90.39,90.65,X_LCSREC
+,Don’t know/Refused/Missing,393679,.,,X_LCSREC
+1,Yes,210891,47.38,46.04,DRNKANY6
+2,No,187667,42.16,41.6,DRNKANY6
+7,Don’t know/Not Sure,3447,0.77,0.94,DRNKANY6
+9,Refused/Missing,43127,9.69,11.43,DRNKANY6
+0,No Drink-Occasions per day,187667,42.16,41.6,DROCDY4_
+1 - 899,Drink-Occasions per day,210887,47.38,46.04,DROCDY4_
+900,Don’t know/Not Sure Or Refused/Missing,46574,10.46,12.37,DROCDY4_
+,,4,.,,DROCDY4_
+1,No,337114,75.73,72.04,X_RFBING6
+2,Yes,56916,12.79,14.27,X_RFBING6
+9,Don’t know/Refused/Missing,51102,11.48,13.68,X_RFBING6
+0,Did not drink,188832,42.42,41.91,X_DRNKWK2
+1 - 98999,Number of drinks per week,206595,46.41,44.78,X_DRNKWK2
+99900,Don’t know/Not sure/Refused/Missing,49705,11.17,13.32,X_DRNKWK2
+1,No,369122,82.92,80.95,X_RFDRHV8
+2,Yes,26305,5.91,5.73,X_RFDRHV8
+9,Don’t know/Refused/Missing,49705,11.17,13.32,X_RFDRHV8
+1,Yes,100950,59.94,55.13,X_FLSHOT7
+2,No,43777,25.99,26.27,X_FLSHOT7
+9,Don’t know/Not Sure Or Refused/Missing,23692,14.07,18.59,X_FLSHOT7
+,Age < 65,276713,.,,X_FLSHOT7
+1,Yes,100859,59.89,54.78,X_PNEUMO3
+2,No,39370,23.38,23.99,X_PNEUMO3
+9,Don’t know/Not Sure Or Refused/Missing,28190,16.74,21.23,X_PNEUMO3
+,Age < 65,"276,713",,,X_PNEUMO3
+1,Yes,129086,32.36,36.1,X_AIDTST4
+2,No,249919,62.65,59.31,X_AIDTST4
+9,Don’t know/Not Sure/Refused,19892,4.99,4.59,X_AIDTST4
+,Not asked or missing,46235,.,,X_AIDTST4
